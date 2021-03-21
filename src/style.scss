@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap');
+
+#cheat-menu {
+    position: fixed;
+    top: -200px;
+    background-color: black;
+    height: 200px;
+    opacity: 0.9;
+    z-index: 10000;
+    width: 2000px;
+    transition: top 0.35s;
+}
+
+#menu-toggler {
+    position: fixed;
+    z-index: 9007199254740991;
+    background-color: black;
+    color: white;
+}
+
+#title {
+    color: white;
+    font: bold 30px Source Code Pro;
+    text-align: left;
+    left: 0%;
+}
+
+.poll-button {
+    font: bold 20px Source Code Pro;
+    color: white;
+    transition: all 0.3s;
+    border-radius: 10px;
+    background-color: #292525;
+}
+
+.fib-button {
+    font: bold 20px Source Code Pro;
+    color: white;
+    transition: all 0.3s;
+    border-radius: 10px;
+    background-color: #292525;
+    justify-content: left;
+    margin: 3em auto;
+    left: 0%;
+    position: absolute;
+}
