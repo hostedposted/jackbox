@@ -120,7 +120,7 @@ let getfib = document.createElement('button')
 getfib.innerHTML = 'Get Answer'
 getfib.classList.add("fib-button")
 getfib.onclick = function() {
-    var question = document.getElementById("question-text").innerHTML.toLowerCase()
+    var question = document.getElementById("question-text")?.innerText.toLowerCase()
     var ans;
     fibkey.forEach(function(value) {
         if (value.question === question) {

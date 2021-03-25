@@ -2975,7 +2975,7 @@ export const fibkey = [
     },
     {
         "answer": "janitors",
-        "question": "<i>the new york times</i> was forced to issue a correction after they incorrectly identified the nintendo characters mario and luigi as _______ instead of plumbers."
+        "question": "the new york times was forced to issue a correction after they incorrectly identified the nintendo characters mario and luigi as _______ instead of plumbers."
     },
     {
         "answer": "dead",
@@ -3019,7 +3019,7 @@ export const fibkey = [
     },
     {
         "answer": "marijuana",
-        "question": "for his voiceover work in <i>texas chainsaw massacre</i>, john larroquette was paid not with money, but with _______."
+        "question": "for his voiceover work in texas chainsaw massacre, john larroquette was paid not with money, but with _______."
     },
     {
         "answer": "Try",
@@ -3087,7 +3087,7 @@ export const fibkey = [
     },
     {
         "answer": "Hawaiian",
-        "question": "a sequel to <i>beetlejuice</i> titled <i>beetlejuice goes _______</i> was written but never made."
+        "question": "a sequel to beetlejuice titled beetlejuice goes _______ was written but never made."
     },
     {
         "answer": "Lego man",
@@ -3139,7 +3139,7 @@ export const fibkey = [
     },
     {
         "answer": "Jesus",
-        "question": "in a 2012 poll conducted by <i>vanity fair</i> and <i>60 minutes</i>, denzel washington was voted the public\u2019s first choice to play the character of _______."
+        "question": "in a 2012 poll conducted by vanity fair and 60 minutes, denzel washington was voted the public\u2019s first choice to play the character of _______."
     },
     {
         "answer": "kidney stone",
@@ -3267,7 +3267,7 @@ export const fibkey = [
     },
     {
         "answer": "Satan",
-        "question": "the movie <i>g.i. jane</i> was translated to <i>_______ female soldier</i> in china."
+        "question": "the movie g.i. jane was translated to _______ female soldier in china."
     },
     {
         "answer": "56000",
@@ -3331,7 +3331,7 @@ export const fibkey = [
     },
     {
         "answer": "circumcising",
-        "question": "jim begelow, ph.d., wrote a book called <i>the joy of un_______!</i>."
+        "question": "jim begelow, ph.d., wrote a book called the joy of un_______!."
     },
     {
         "answer": "God",
@@ -3347,15 +3347,15 @@ export const fibkey = [
     },
     {
         "answer": "Toothbrushes",
-        "question": "barbara e. mattick wrote the book, <i>a guide to bone _______ of the 19th and early 20th centuries.</i>"
+        "question": "barbara e. mattick wrote the book, a guide to bone _______ of the 19th and early 20th centuries."
     },
     {
         "answer": "Physics",
-        "question": "chad orzel wrote the book <i>how to teach _______ to your dog</i>."
+        "question": "chad orzel wrote the book how to teach _______ to your dog."
     },
     {
         "answer": "Coffins",
-        "question": "dale power wrote the how-to book <i>fancy _______ to make yourself</i>."
+        "question": "dale power wrote the how-to book fancy _______ to make yourself."
     },
     {
         "answer": "ears",
@@ -3363,7 +3363,7 @@ export const fibkey = [
     },
     {
         "answer": "Graves",
-        "question": "the 1995 diagram prize for oddest book title of the year went to the book <i>reusing old _______</i>."
+        "question": "the 1995 diagram prize for oddest book title of the year went to the book reusing old _______."
     },
     {
         "answer": "laughing",
@@ -3383,7 +3383,7 @@ export const fibkey = [
     },
     {
         "answer": "an ostrich",
-        "question": "celebrity tweet!   3:20 pm - 9 nov 12  @blakeshelton, the country singer and judge on <i>the voice</i>, tweeted, \u201cjust fell down and gashed my hand open while running from _______... don\u2019t ask.\u201d"
+        "question": "celebrity tweet!   3:20 pm - 9 nov 12  @blakeshelton, the country singer and judge on the voice, tweeted, \u201cjust fell down and gashed my hand open while running from _______... don\u2019t ask.\u201d"
     },
     {
         "answer": "Hooker\u2019s",
@@ -3523,7 +3523,7 @@ export const fibkey = [
     },
     {
         "answer": "Amish",
-        "question": "<i>chosen,</i> <i>shunned</i> and <i>reckoning</i> are all books in an unusual series about _______ vampires."
+        "question": "chosen, shunned and reckoning are all books in an unusual series about _______ vampires."
     },
     {
         "answer": "middle finger",
@@ -3635,7 +3635,7 @@ export const fibkey = [
     },
     {
         "answer": "nerd",
-        "question": "dr. seuss is credited with coining this common derogatory term in his 1950 book <i>if i ran the zoo</i>."
+        "question": "dr. seuss is credited with coining this common derogatory term in his 1950 book if i ran the zoo."
     },
     {
         "answer": "noodles",
@@ -3667,7 +3667,7 @@ export const fibkey = [
     },
     {
         "answer": "Woozle World",
-        "question": "jim henson\u2019s original name for <i>fraggle rock</i>."
+        "question": "jim henson\u2019s original name for fraggle rock."
     },
     {
         "answer": "beano",
@@ -3675,7 +3675,7 @@ export const fibkey = [
     },
     {
         "answer": "Yorktown",
-        "question": "the name of the <i>star trek</i> starship in creator gene roddenberry\u2019s original script."
+        "question": "the name of the star trek starship in creator gene roddenberry\u2019s original script."
     },
     {
         "answer": "grawlix",
@@ -3695,7 +3695,7 @@ export const fibkey = [
     },
     {
         "answer": "buttered popcorn",
-        "question": "according to the nonfiction book <i>the man-eating tigers of sundarbans</i>, tiger urine \u201csmells sort of like _______.\u201d"
+        "question": "according to the nonfiction book the man-eating tigers of sundarbans, tiger urine \u201csmells sort of like _______.\u201d"
     },
     {
         "answer": "glitter",
@@ -3879,7 +3879,7 @@ export const fibkey = [
     },
     {
         "answer": "Two Lovers",
-        "question": "before he became pope, pope pius ii wrote an erotic novel titled <i>the tale of the _______.</i>"
+        "question": "before he became pope, pope pius ii wrote an erotic novel titled the tale of the _______."
     },
     {
         "answer": "Spanko",
@@ -3927,7 +3927,7 @@ export const fibkey = [
     },
     {
         "answer": "Judo",
-        "question": "russian president vladimir putin released a dvd in 2008 called <i>let\u2019s learn _______ with vladimir putin</i>."
+        "question": "russian president vladimir putin released a dvd in 2008 called let\u2019s learn _______ with vladimir putin."
     },
     {
         "answer": "Love",
@@ -3939,7 +3939,7 @@ export const fibkey = [
     },
     {
         "answer": "toilet flushing",
-        "question": "<i>psycho</i> was the first american movie to show a _______."
+        "question": "psycho was the first american movie to show a _______."
     },
     {
         "answer": "funeral home",
@@ -3955,7 +3955,7 @@ export const fibkey = [
     },
     {
         "answer": "Invaders",
-        "question": "coca-cola once commissioned a video game from atari called <i>pepsi _______</i>."
+        "question": "coca-cola once commissioned a video game from atari called pepsi _______."
     },
     {
         "answer": "bear",
@@ -3995,7 +3995,7 @@ export const fibkey = [
     },
     {
         "answer": "Book",
-        "question": "pam anderson wrote a book of recipes with the title <i>how to cook without a _______</i>."
+        "question": "pam anderson wrote a book of recipes with the title how to cook without a _______."
     },
     {
         "answer": "smiling",
@@ -4031,7 +4031,7 @@ export const fibkey = [
     },
     {
         "answer": "Dating",
-        "question": "blair tolman wrote a self-help book called <i>_______ for under a dollar: 301 ideas</i>."
+        "question": "blair tolman wrote a self-help book called _______ for under a dollar: 301 ideas."
     },
     {
         "answer": "umbrella",
@@ -4083,11 +4083,11 @@ export const fibkey = [
     },
     {
         "answer": "meat",
-        "question": "<i>patton</i> actor george c. scott refused to accept the oscar he won in 1971, claiming the academy awards is a \u201ctwo hour _______ parade.\u201d"
+        "question": "patton actor george c. scott refused to accept the oscar he won in 1971, claiming the academy awards is a \u201ctwo hour _______ parade.\u201d"
     },
     {
         "answer": "type",
-        "question": "mohammed khurshid hussain is in the <i>guinness book of world records</i> because he is able to _______ very quickly with his nose."
+        "question": "mohammed khurshid hussain is in the guinness book of world records because he is able to _______ very quickly with his nose."
     },
     {
         "answer": "Neuticles",
@@ -4155,7 +4155,7 @@ export const fibkey = [
     },
     {
         "answer": "power saw",
-        "question": "when <i>charlie and the chocolate factory</i> author roald dahl died, he was buried with snooker cues, burgundy, chocolate, pencils, and a _______."
+        "question": "when charlie and the chocolate factory author roald dahl died, he was buried with snooker cues, burgundy, chocolate, pencils, and a _______."
     },
     {
         "answer": "washing machine",
@@ -4227,7 +4227,7 @@ export const fibkey = [
     },
     {
         "answer": "names",
-        "question": "a study published in the journal <i>anthrozoo</i> reported that cows produce 5% more milk when they are given _______."
+        "question": "a study published in the journal anthrozoo reported that cows produce 5% more milk when they are given _______."
     },
     {
         "answer": "vodka",
@@ -4263,7 +4263,7 @@ export const fibkey = [
     },
     {
         "answer": "ghost",
-        "question": "in a 1999 interview with <i>us weekly</i>, actress lucy liu revealed that she once had sex with a _______."
+        "question": "in a 1999 interview with us weekly, actress lucy liu revealed that she once had sex with a _______."
     },
     {
         "answer": "fingernails",
@@ -4327,7 +4327,7 @@ export const fibkey = [
     },
     {
         "answer": "belly button lint",
-        "question": "graham barker of australia has been recognized by <i>the guinness book of world records</i> for having the largest collection of _______, which he stores in jars."
+        "question": "graham barker of australia has been recognized by the guinness book of world records for having the largest collection of _______, which he stores in jars."
     },
     {
         "answer": "jerkers",
@@ -4383,7 +4383,7 @@ export const fibkey = [
     },
     {
         "answer": "Quee",
-        "question": "in the 1912 play <i>snow white and the seven dwarfs,</i> the dwarfs were originally named blick, plick, flick, whick, glick, snick and, curiously enough, _______."
+        "question": "in the 1912 play snow white and the seven dwarfs, the dwarfs were originally named blick, plick, flick, whick, glick, snick and, curiously enough, _______."
     },
     {
         "answer": "video games",
@@ -4423,7 +4423,7 @@ export const fibkey = [
     },
     {
         "answer": "beauty products",
-        "question": "a comprehensive 2012 study published in the <i>journal of personality and social pyschology</i> found that the sale of _______ actually increases during every u.s. economic recession."
+        "question": "a comprehensive 2012 study published in the journal of personality and social pyschology found that the sale of _______ actually increases during every u.s. economic recession."
     },
     {
         "answer": "meat",
@@ -4479,7 +4479,7 @@ export const fibkey = [
     },
     {
         "answer": "shoe",
-        "question": "a 1947 issue of <i>life</i> magazine featured a story on _______-swapping, a fad sweeping high schools across the nation."
+        "question": "a 1947 issue of life magazine featured a story on _______-swapping, a fad sweeping high schools across the nation."
     },
     {
         "answer": "your boogers",
@@ -4495,7 +4495,7 @@ export const fibkey = [
     },
     {
         "answer": "spiders",
-        "question": "the australian broadcasting company banned an episode of the popular children\u2019s series <i>peppa pig</i> because it sent the message that _______ were not to be feared."
+        "question": "the australian broadcasting company banned an episode of the popular children\u2019s series peppa pig because it sent the message that _______ were not to be feared."
     },
     {
         "answer": "Pyramids",
@@ -4607,7 +4607,7 @@ export const fibkey = [
     },
     {
         "answer": "ebola",
-        "question": "in issue #48 of <i>batman: shadow of the bat</i>, batman fights an unusual comic book enemy: _______."
+        "question": "in issue #48 of batman: shadow of the bat, batman fights an unusual comic book enemy: _______."
     },
     {
         "answer": "spider silk",
@@ -4847,7 +4847,7 @@ export const fibkey = [
     },
     {
         "answer": "licked by a bear",
-        "question": "in celebration of international women\u2019s day, russian magazine <i>moct</i> published a cover image of vladimir putin being _______."
+        "question": "in celebration of international women\u2019s day, russian magazine moct published a cover image of vladimir putin being _______."
     },
     {
         "answer": "lion tamer",
@@ -4863,7 +4863,7 @@ export const fibkey = [
     },
     {
         "answer": "get pedicures",
-        "question": "a chinese reality show called <i>wonderful friends</i> received some backlash for a bizarre stunt in which they made elephants _______."
+        "question": "a chinese reality show called wonderful friends received some backlash for a bizarre stunt in which they made elephants _______."
     },
     {
         "answer": "whistling",
@@ -4903,7 +4903,7 @@ export const fibkey = [
     },
     {
         "answer": "dog hair",
-        "question": "kendall corlius is the author of a bizarre crafting book called <i>knitting with _______</i>."
+        "question": "kendall corlius is the author of a bizarre crafting book called knitting with _______."
     },
     {
         "answer": "maggots",
@@ -4959,7 +4959,7 @@ export const fibkey = [
     },
     {
         "answer": "Recipe Quest",
-        "question": "paula deen has her own video game called <i>paula deen\u2019s _______</i>."
+        "question": "paula deen has her own video game called paula deen\u2019s _______."
     },
     {
         "answer": "Chicken",
@@ -4971,7 +4971,7 @@ export const fibkey = [
     },
     {
         "answer": "Jews",
-        "question": "the end credits to the coen brothers\u2019 film <i>a serious man</i> includes the odd notice that \u201cno _______ were harmed in the making of this motion picture.\u201d"
+        "question": "the end credits to the coen brothers\u2019 film a serious man includes the odd notice that \u201cno _______ were harmed in the making of this motion picture.\u201d"
     },
     {
         "answer": "make tea",
@@ -4995,7 +4995,7 @@ export const fibkey = [
     },
     {
         "answer": "Nowhere",
-        "question": "the hit show <i>lost</i> was almost called _______."
+        "question": "the hit show lost was almost called _______."
     },
     {
         "answer": "placentas",
@@ -5035,7 +5035,7 @@ export const fibkey = [
     },
     {
         "answer": "tuna",
-        "question": "while speaking to british magazine <i>hello!</i>, black eyed peas\u2019 will.i.am was quoted as saying \u201clet\u2019s fast forward to 2060 - i\u2019ll be like 90, the world is different, i don\u2019t know if there\u2019s _______.\u201d"
+        "question": "while speaking to british magazine hello!, black eyed peas\u2019 will.i.am was quoted as saying \u201clet\u2019s fast forward to 2060 - i\u2019ll be like 90, the world is different, i don\u2019t know if there\u2019s _______.\u201d"
     },
     {
         "answer": "dead relatives",
@@ -5071,7 +5071,7 @@ export const fibkey = [
     },
     {
         "answer": "Twenty below zero",
-        "question": "the 1993 film <i>cool runnings</i> sported the tagline: \u201cone dream. four jamaicans. _______.\u201d"
+        "question": "the 1993 film cool runnings sported the tagline: \u201cone dream. four jamaicans. _______.\u201d"
     },
     {
         "answer": "rabbits",
@@ -5079,7 +5079,7 @@ export const fibkey = [
     },
     {
         "answer": "kill the President of the United States",
-        "question": "the 1973 thriller <i>the day of the dolphin</i> had the memorable tagline: \u201cunwittingly, he trained a dolphin to _______.\u201d"
+        "question": "the 1973 thriller the day of the dolphin had the memorable tagline: \u201cunwittingly, he trained a dolphin to _______.\u201d"
     },
     {
         "answer": "great works of art",
@@ -5087,7 +5087,7 @@ export const fibkey = [
     },
     {
         "answer": "eat ice cream",
-        "question": "the 1988 cult horror comedy <i>killer klowns from outer space</i> sported the tagline, \u201cin space no one can _______.\u201d"
+        "question": "the 1988 cult horror comedy killer klowns from outer space sported the tagline, \u201cin space no one can _______.\u201d"
     },
     {
         "answer": "JFK",
@@ -5123,7 +5123,7 @@ export const fibkey = [
     },
     {
         "answer": "kidnapped children",
-        "question": "the sega genesis game <i>moonwalker</i> has you play as michael jackson, and your mission is to save _______."
+        "question": "the sega genesis game moonwalker has you play as michael jackson, and your mission is to save _______."
     },
     {
         "answer": "eating pickles",
@@ -5187,7 +5187,7 @@ export const fibkey = [
     },
     {
         "answer": "a brain surgeon",
-        "question": "believe it or not, baseball great yogi berra once guest-starred on the soap opera <i>general hospital</i> as _______."
+        "question": "believe it or not, baseball great yogi berra once guest-starred on the soap opera general hospital as _______."
     },
     {
         "answer": "do thirty squats",
@@ -5239,7 +5239,7 @@ export const fibkey = [
     },
     {
         "answer": "China",
-        "question": "a 2010 university of california, berkeley study published in <i>environmental science & technology</i> concluded that surprisingly, 29% of san francisco\u2019s air pollution comes from _______."
+        "question": "a 2010 university of california, berkeley study published in environmental science & technology concluded that surprisingly, 29% of san francisco\u2019s air pollution comes from _______."
     },
     {
         "answer": "are possessed",
@@ -5383,7 +5383,7 @@ export const fibkey = [
     },
     {
         "answer": "Nocturnal Fears",
-        "question": "steven spielberg almost made a sequel to his mega-hit <i>e.t.</i> titled <i>e.t. ii : _______.</i>"
+        "question": "steven spielberg almost made a sequel to his mega-hit e.t. titled e.t. ii : _______."
     },
     {
         "answer": "photography",
@@ -5519,7 +5519,7 @@ export const fibkey = [
     },
     {
         "answer": "black people",
-        "question": "the penguin publishing house had to destroy 7,000 copies of <i>the pasta bible</i> due to a misprint. one of the recipes called for \u201cfreshly ground _______.\u201d"
+        "question": "the penguin publishing house had to destroy 7,000 copies of the pasta bible due to a misprint. one of the recipes called for \u201cfreshly ground _______.\u201d"
     },
     {
         "answer": "diapers",
@@ -6011,11 +6011,11 @@ export const fibkey = [
     },
     {
         "answer": "vomiting the apple",
-        "question": "in the original version of <i>snow white and the seven dwarfs</i>, snow white doesn\u2019t regain consciousness by a kiss from the prince, but rather by _______."
+        "question": "in the original version of snow white and the seven dwarfs, snow white doesn\u2019t regain consciousness by a kiss from the prince, but rather by _______."
     },
     {
         "answer": "Pinocchio smashing him with a hammer",
-        "question": "in the original book <i>pinocchio</i>, the talking cricket dies from _______."
+        "question": "in the original book pinocchio, the talking cricket dies from _______."
     },
     {
         "answer": "in the United States",
@@ -6043,7 +6043,7 @@ export const fibkey = [
     },
     {
         "answer": "escalators",
-        "question": "<i>the atlantic</i> reported in 2013 that the state of wyoming has only two of these."
+        "question": "the atlantic reported in 2013 that the state of wyoming has only two of these."
     },
     {
         "answer": "pip",
@@ -6155,7 +6155,7 @@ export const fibkey = [
     },
     {
         "answer": "Mocha Dick",
-        "question": "the name of the real whale that inspired herman melville to write <i>moby dick</i>."
+        "question": "the name of the real whale that inspired herman melville to write moby dick."
     },
     {
         "answer": "Wandering Leg Sausage",
@@ -6163,7 +6163,7 @@ export const fibkey = [
     },
     {
         "answer": "Something That Happened",
-        "question": "john steinbeck\u2019s original title for his novel <i>of mice and men</i>, before he was convinced to change it."
+        "question": "john steinbeck\u2019s original title for his novel of mice and men, before he was convinced to change it."
     },
     {
         "answer": "an eyedrops bottle cap",
@@ -6299,7 +6299,7 @@ export const fibkey = [
     },
     {
         "answer": "Mussolini",
-        "question": "the middle name of <i>simpsons</i> character milhouse van houten."
+        "question": "the middle name of simpsons character milhouse van houten."
     },
     {
         "answer": "Mars Men",
