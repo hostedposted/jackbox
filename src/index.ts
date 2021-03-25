@@ -2,7 +2,7 @@
 import "./style.scss";
 import "./wordpress-admin.scss";
 import Swal from "sweetalert2";
-import { pollkey, pollbonus, fibkey } from "./utils";
+import { pollkey, pollbonus, fibkey, fib3key } from "./utils";
 
 document.getElementById("cheat-menu")?.remove()
 document.getElementById("menu-toggler")?.remove()
@@ -127,6 +127,7 @@ getfib.onclick = function() {
             ans = value.answer
         }
     })
+    //document.querySelector("#prompt > div > div").innerText
     Swal.fire("Answer", `The answer is: ${ans}`)
 }
 div.append(getfib)
@@ -134,6 +135,30 @@ getfib.onmouseover = function () {
 	getfib.style.background = '#CDCDCD'
 }
 getfib.onmouseout = function () {
+	getfib.style.background = '#292525'
+}
+
+let getfib3 = document.createElement('button')
+getfib3.innerHTML = 'Get Answer'
+getfib3.classList.add("fib3-button")
+getfib3.onclick = function() {
+    var question = document.querySelector("#prompt > div > div")?.innerText.toLowerCase()
+    var ans;
+    fib3key.forEach(function(value) {
+        if (value.question === question) {
+            ans = value.answer
+        }
+    })
+    if (typeof ans === "object") {
+        ans = ans.join(" and ")
+    }
+    Swal.fire("Answer", `The answer is: ${ans}`)
+}
+div.append(getfib3)
+getfib3.onmouseover = function () {
+	getfib3.style.background = '#CDCDCD'
+}
+getfib3.onmouseout = function () {
 	getfib.style.background = '#292525'
 }
 
@@ -158,6 +183,12 @@ setInterval(async () => {
     }
     if (document.querySelector("#content-region > div").getElementsByTagName("div")[0].id.replace("page-", "") === "fibbage") {
         [].forEach.call(document.getElementsByClassName("fib-button"), function(button) {
+            button.style.visibility = "visible";
+        }
+        )
+    }
+    if (document.querySelector("#content-region > div").classList.item(1) === "fibbage3") {
+        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button) {
             button.style.visibility = "visible";
         }
         )

@@ -6318,3 +6318,2717 @@ export const fibkey = [
         "question": "the occupation of the barbie that was released in 1999 and discontinued one year later, after complaints."
     }
 ]
+
+export const fib3key = [
+    {
+        "answer": "china",
+        "question": "president warren g. harding was a fan of poker. in one game he ended up gambling away the white house _______."
+    },
+    {
+        "answer": "explode",
+        "question": "when a male bee orgasms, his testicles _______."
+    },
+    {
+        "answer": "poop",
+        "question": "kackel dackel is a german toy where kids use a pump to help a dachshund _______."
+    },
+    {
+        "answer": "contraceptive",
+        "question": "schwangerschaftsverh\u00e3\u00bctungsmittel is the german word for \u201c_______.\u201d"
+    },
+    {
+        "answer": "cocaine",
+        "question": "snowflame is a supervillain in the dc universe who got his powers from _______."
+    },
+    {
+        "answer": "toe",
+        "question": "the downtown hotel in dawson city, yukon has a cocktail that contains a pickled _______."
+    },
+    {
+        "answer": "beer",
+        "question": "in 2013, hello kitty came out with a line of fruit-flavored _______."
+    },
+    {
+        "answer": "hot showers",
+        "question": "during the time it was open, alcatraz was the only federal prison that had _______."
+    },
+    {
+        "answer": "Hitler",
+        "question": "from 2011 to 2013, there was a soap opera in india with an unusual title that translated to big sister _______."
+    },
+    {
+        "answer": "dynamite",
+        "question": "in rogers, ar, a man named johnny lee nichols was arrested for going door to door offering to trade _______ for sex."
+    },
+    {
+        "answer": "Albin",
+        "question": "a swedish couple named their son brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, which they claimed was pronounced simply \u201c_______.\u201d"
+    },
+    {
+        "answer": "governor",
+        "question": "in 2013, john barge, a man running for georgia governor, pulled down his campaign website because it misspelled \u201c_______.\u201d"
+    },
+    {
+        "answer": "grow a beard",
+        "question": "according to the brigham young university honor code, students need a letter from a doctor in order to _______."
+    },
+    {
+        "answer": "a penis pump",
+        "question": "district judge donald thompson was given a four-year prison sentence in 2006 after he was caught using _______ during several trials."
+    },
+    {
+        "answer": "No Plate",
+        "question": "robert barbour received over 2,500 parking tickets due to his vanity plates that said \u201c_______.\u201d"
+    },
+    {
+        "answer": "coffins",
+        "question": "in 1908, george willems invented and patented a periscope for _______."
+    },
+    {
+        "answer": "Henry Kissinger",
+        "question": "in 1976, the harlem globetrotters announced that their first honorary member would be _______."
+    },
+    {
+        "answer": "beard",
+        "question": "the rogue ales brewing company developed their own yeast strain that was harvested from their brewmaster\u2019s _______."
+    },
+    {
+        "answer": "gas mask",
+        "question": "dr. elena bodnar invented a bra that can also be used as a _______."
+    },
+    {
+        "answer": "eaten",
+        "question": "\u201cgynophagia\u201d is sexual arousal from seeing someone _______."
+    },
+    {
+        "answer": "Stepson",
+        "question": "rachel ward and terry o\u2019quinn starred in the 1997 lifetime movie my _______, my lover."
+    },
+    {
+        "answer": "seduction",
+        "question": "in 1938, singer frank sinatra was arrested on the unusual charge of _______."
+    },
+    {
+        "answer": "old men",
+        "question": "at japan\u2019s odd ossan rental you can rent _______."
+    },
+    {
+        "answer": "Farting",
+        "question": "in 1996, the journal of analytical psychology published a paper titled \u201c_______ as a defense against unspeakable dread.\u201d"
+    },
+    {
+        "answer": "farting",
+        "question": "opera singer amy herbst claims she lost her job with the nashville opera after a surgery because now she can\u2019t stop _______."
+    },
+    {
+        "answer": "jock straps",
+        "question": "the first sports bra was constructed out of two _______ sewn together."
+    },
+    {
+        "answer": "reptile alien",
+        "question": "john key, the former new zealand prime minister, made an official statement in 2014 in which he confirmed that he is not a _______."
+    },
+    {
+        "answer": "a tapeworm",
+        "question": "the iowa department of public health issued a warning after a woman tried to lose weight by using _______ she bought on the internet."
+    },
+    {
+        "answer": "testicle-eating fish",
+        "question": "a copenhagen professor warned male swimmers in scandinavia to keep their swimsuits well tied because of _______."
+    },
+    {
+        "answer": "horses",
+        "question": "in 2011, the definition of a \u201cservice animal\u201d was updated in the americans with disabilities act. as an alternative to dogs, the act now allows miniature _______."
+    },
+    {
+        "answer": "Widow",
+        "question": "donald rogers wrote a book in the \u201950s called teach your wife to be a _______."
+    },
+    {
+        "answer": "Pizza Hut",
+        "question": "before it became a huge foodie trend in 2013, the largest buyer of kale was, surprisingly, _______."
+    },
+    {
+        "answer": "Windex",
+        "question": "oscar nominees in 2013 were given a gift bag that included a $5,000 facelift set, a $3,300 vacation package and a $4 bottle of _______."
+    },
+    {
+        "answer": "Mini-Me doll",
+        "question": "the last letter beatles guitarist george harrison ever sent was to comedian mike myers, wherein he asked him for a _______."
+    },
+    {
+        "answer": "pet octopus",
+        "question": "in order to justify the odd purchase, nicolas cage claimed he bought a _______ to help his acting."
+    },
+    {
+        "answer": "boot",
+        "question": "mcdonald\u2019s mcnuggets officially come in four shapes: bone, ball, bell, _______."
+    },
+    {
+        "answer": "a Most Wanted suspect",
+        "question": "when christopher viatafa googled himself in 2014, he was surprised to find that he was _______."
+    },
+    {
+        "answer": "not perform",
+        "question": "longview, tx once paid ted nugent over $16,000 to _______ at their 4th of july celebration."
+    },
+    {
+        "answer": "a condom",
+        "question": "in 1960, rocker paul mccartney was arrested in hamburg, germany for lighting fire to _______."
+    },
+    {
+        "answer": "harmonicas",
+        "question": "a 52-year-old man from manatee county, fl was arrested after he stabbed the passenger in his car for allegedly stealing his _______."
+    },
+    {
+        "answer": "breath",
+        "question": "the online casino goldenpalace.com paid $523 on ebay for a jar containing angelina jolie\u2019s _______."
+    },
+    {
+        "answer": "ink and toner",
+        "question": "monks at the cistercian abbey of our lady of spring bank made money by selling _______ online."
+    },
+    {
+        "answer": "dog",
+        "question": "during a major battle of the revolutionary war, george washington ordered a cease-fire in order to return a british general\u2019s _______."
+    },
+    {
+        "answer": "Dumpster",
+        "question": "due to his bizarre temporary home, dr. jeff wilson at huston-tillotson university in austin, tx was nicknamed professor _______."
+    },
+    {
+        "answer": "longboard",
+        "question": "the quinny stroller company makes an extreme stroller that\u2019s affixed atop a _______."
+    },
+    {
+        "answer": "otters",
+        "question": "in 2015, an endangered monkey at bristol zoo gardens in britain met with a tragic end when it was accidentally eaten by _______."
+    },
+    {
+        "answer": "style dead women\u2019s hair",
+        "question": "before he was a successful actor, danny devito used to work at a morgue, where his job was to _______."
+    },
+    {
+        "answer": "cry on demand",
+        "question": "the adult site woodrocket.com shot a 2015 promotional video where porn actors attempted to _______."
+    },
+    {
+        "answer": "diaper",
+        "question": "a new orleans man was arrested in 2008 when police discovered 200 grams of heroin in his _______."
+    },
+    {
+        "answer": "sumo wrestlers",
+        "question": "in march 2006, a man attempting a burglary near a temple in osaka, japan was shocked to be apprehended by 20 _______ who happened to be in the building."
+    },
+    {
+        "answer": "Fifty Shades of Grey",
+        "question": "five students at monessen middle school in pennsylvania ended up learning more than they bargained for after they were accidentally given a word search inspired by _______."
+    },
+    {
+        "answer": "Waffle House",
+        "question": "professional golfer brooke pancake raised some eyebrows when she signed an endorsement deal with _______."
+    },
+    {
+        "answer": "cats",
+        "question": "the japanese drink manufacturer b&h lifes made a non-alcoholic wine specifically for _______."
+    },
+    {
+        "answer": "adultery",
+        "question": "south korean contraceptive companies saw a rise in their stock shares in february of 2015, after the government lifted a 62-year-old ban on _______."
+    },
+    {
+        "answer": "Most Frequent Clapper",
+        "question": "as of 2015, wheel of fortune\u2019s vanna white officially holds the guinness world record title of \u201ctelevision\u2019s _______.\u201d"
+    },
+    {
+        "answer": "her vaginal bacteria",
+        "question": "cecilia westbrook, a phd student at the university of wisconsin, made headlines with an unusual experiment that involved making yogurt with _______."
+    },
+    {
+        "answer": "farting",
+        "question": "traveling in large schools, herring are believed to instantaneously communicate by _______."
+    },
+    {
+        "answer": "his phone contract",
+        "question": "taking measures to the extreme, corey taylor of chicago decided to fake his own death in order to get out of _______."
+    },
+    {
+        "answer": "ventriloquist\u2019s dummy",
+        "question": "san francisco policeman bob geary had to get special permission from city voters to carry a _______ while on duty."
+    },
+    {
+        "answer": "blue skin",
+        "question": "thought to be the result of inbreeding, the fugate family of troublesome creek, ky all shared the trait of _______."
+    },
+    {
+        "answer": "a dead rat",
+        "question": "during the making of her album approximately infinite universe, yoko ono surprised her sound engineer by making him record 20 seconds of _______."
+    },
+    {
+        "answer": "intelligence",
+        "question": "a \u201csapiosexual\u201d is someone who is sexually attracted to a person\u2019s _______."
+    },
+    {
+        "answer": "unlicensed sonograms",
+        "question": "california bill ab2360, nicknamed \u201cthe tom cruise bill,\u201d is unique in that it outlaws _______."
+    },
+    {
+        "answer": "name their child Turok",
+        "question": "to promote a 2002 video game, acclaim offered $10,000 to anyone who would _______."
+    },
+    {
+        "answer": "squirrels",
+        "question": "one of the strangest members of the avengers, doreen green\u2019s superpower is the ability to control _______."
+    },
+    {
+        "answer": "on a bra strap",
+        "question": "san francisco giants manager roger craig was once spotted in the dugout with a heavily bandaged hand after he cut himself _______."
+    },
+    {
+        "answer": "left handed",
+        "question": "as part of a 1998 publicity stunt, burger king announced that their whoppers would now be _______."
+    },
+    {
+        "answer": "make a sex tape",
+        "question": "action comics #592 and #593 are notable because a villain with psychic powers forces superman to _______."
+    },
+    {
+        "answer": "beard",
+        "question": "when in prague, be sure to check out the chapel of our lady of sorrows, which features a crucified woman sporting a _______."
+    },
+    {
+        "answer": "do math",
+        "question": "a bride in uttar pradesh, india stormed out of her wedding when her groom was unable to _______."
+    },
+    {
+        "answer": "human feces",
+        "question": "according to the u.s. geological survey, hundreds of millions of dollars of gold and other precious metals are hidden in _______."
+    },
+    {
+        "answer": "underboob",
+        "question": "in 2015, thailand warned citizens that they are violating the computer crimes act if they take selfies containing _______."
+    },
+    {
+        "answer": "blind",
+        "question": "anton\u2019s syndrome is a rare disorder where affected people are unaware that they\u2019re _______."
+    },
+    {
+        "answer": "punish prisoners",
+        "question": "sir william cubitt invented the first treadmill device in 1818, not for exercise, but as a way to _______."
+    },
+    {
+        "answer": "The Beatles",
+        "question": "according to director peter jackson, before his lord of the rings trilogy was produced, another version had been attempted where the main characters would\u2019ve been played by _______."
+    },
+    {
+        "answer": "estrogen",
+        "question": "in 2011, it was revealed that wwii british spies formulated a plan to bring down hitler by slipping _______ into his food."
+    },
+    {
+        "answer": "killed in a robbery",
+        "question": "in an odd episode of the brady bunch titled \u201cbobby\u2019s hero,\u201d bobby has a dream where the entire brady family is _______."
+    },
+    {
+        "answer": "drink more",
+        "question": "a game-changing report published in science magazine in 2012 claimed that sexually frustrated flies tend to _______."
+    },
+    {
+        "answer": "periods",
+        "question": "in 1946, walt disney pictures was commissioned to produce a ten-minute animated short on the somewhat taboo subject of _______."
+    },
+    {
+        "answer": "a birthday greeting",
+        "question": "if you\u2019re a canadian who\u2019s 65 or older, you must give the prime minister at least six weeks\u2019 notice if you want _______."
+    },
+    {
+        "answer": "a sex toy",
+        "question": "designer mark sturkenboom wants to help you remember a deceased loved one by placing 21 grams of their ashes inside _______."
+    },
+    {
+        "answer": "Guy Fieri",
+        "question": "melissa mccarthy admitted that her hilarious character in bridesmaids was an homage to _______."
+    },
+    {
+        "answer": "bees",
+        "question": "pop icon jon bon jovi avoided paying hefty taxes on his new jersey mansion by having _______ on his property."
+    },
+    {
+        "answer": "beer bottle openers",
+        "question": "advertising agency ogilvy & mather gave a group of argentinian rugby players special dental implants that also double as _______."
+    },
+    {
+        "answer": "get hurt",
+        "question": "utah prison officials denied death row inmate joseph mitchell parsons\u2019 last request to play basketball because they were oddly afraid he would _______."
+    },
+    {
+        "answer": "high heels",
+        "question": "michele holbrook angered a lot of parents when she founded a company that sells _______ for babies."
+    },
+    {
+        "answer": "women to cry in",
+        "question": "when in tokyo, stay at the charming mitsui garden yotsuya hotel, where you can rent a room that\u2019s specifically for _______."
+    },
+    {
+        "answer": "kama sutra",
+        "question": "check out a book by british knitting expert geraldine warner titled knit your own _______."
+    },
+    {
+        "answer": "drinking her own breast milk",
+        "question": "after becoming lost in the wilderness of the orongorongo valley, a 29-year-old new zealand woman survived by _______"
+    },
+    {
+        "answer": "the devil",
+        "question": "after making a racist comment during a high school graduation in 2015, a georgia principal apologized but blamed the incident on _______."
+    },
+    {
+        "answer": "women with curves",
+        "question": "a self-described savior named master adonis has started his own religion called \u201cadonitology,\u201d which describes itself as \u201ca new religion for _______.\u201d"
+    },
+    {
+        "answer": "eat horse meat",
+        "question": "do you engage in \u201chippophagy\u201d? you do if you _______."
+    },
+    {
+        "answer": "a dancing gay sailor",
+        "question": "in an unusual bid to keep russian submarines away from their waters, the swedish peace and arbitration society installed a large neon sign off the coast of stockholm that depicts _______."
+    },
+    {
+        "answer": "body double",
+        "question": "in 2015, mexican politician renato tronco gomez offered the winner of a facebook contest the unique honor of serving as his _______."
+    },
+    {
+        "answer": "Horses",
+        "question": "the 1900 olympics in paris had a strange event called \u201clong jump for _______.\u201d"
+    },
+    {
+        "answer": "drums",
+        "question": "czech general jan zizka gave an order to his troops before he died that he wanted his skin to be removed and used to make _______."
+    },
+    {
+        "answer": "bathe in dolphin blood",
+        "question": "because he believed it kept him youthful, burmese dictator ne win would sometimes _______."
+    },
+    {
+        "answer": "Paramedics",
+        "question": "after the short-lived friends spinoff show joey was canceled, the living room set was turned into a training simulator for _______."
+    },
+    {
+        "answer": "a kangaroo",
+        "question": "tough break for the disabled in beaver dam, wi. as of 2015, you can no longer claim _______ as a therapeutic aid."
+    },
+    {
+        "answer": "surfers\u2019 butts",
+        "question": "to get information on drug-resistant bacteria, researchers at england\u2019s university of exeter took some rather disgusting samples from _______."
+    },
+    {
+        "answer": "eat their pet fish",
+        "question": "after a lengthy ethical debate, middle-school students at ella baker, a public school in manhattan, officially decided not to _______."
+    },
+    {
+        "answer": "shoot guns",
+        "question": "in 2013, warren wethington made a bizarre claim to the des moines register, stating that he can teach blind people how to _______."
+    },
+    {
+        "answer": "Studies",
+        "question": "strangely, a 2015 study conducted by professors in finland and california came to the conclusion that there are too many _______."
+    },
+    {
+        "answer": "bleed",
+        "question": "early detectives in the middle ages believed in \u201ccruentation,\u201d a superstitious belief that the body of a murder victim would _______ in the presence of the murderer."
+    },
+    {
+        "answer": "Andre the Giant",
+        "question": "in the mid-1980s, the nypd dispatched a special undercover cop to local bars to protect people from _______."
+    },
+    {
+        "answer": "an iPad",
+        "question": "at the san francisco restaurant quince, one can order the dish named \u201ca dog in search of gold,\u201d which is white truffle croquettes served on _______."
+    },
+    {
+        "answer": "done something stupid while drunk",
+        "question": "the norwegian word \u201cfylleangst\u201d describes the fear that you might have _______."
+    },
+    {
+        "answer": "fingerprints",
+        "question": "medical studies have shown that use of the drug capecitabine can cause patients to temporarily lose their _______."
+    },
+    {
+        "answer": "lobster lips",
+        "question": "the tiny animal symbion pandora is unique in that it can only be found on _______."
+    },
+    {
+        "answer": "been hit by lightning",
+        "question": "in 2017, martha stewart made the surprising confession that she has _______ three times."
+    },
+    {
+        "answer": "Light Bulb",
+        "question": "due to a habit he had while roaming the halls of the white house, president lyndon b. johnson earned the nickname \u201c_______ johnson.\u201d"
+    },
+    {
+        "answer": "Mormon",
+        "question": "legrand wolf is the creator of the gay porn site that, oddly enough, is _______-themed."
+    },
+    {
+        "answer": "Lord of the Rings",
+        "question": "confusing it for saint anthony, a great-grandmother from brazil spent every day praying to a _______ figurine."
+    },
+    {
+        "answer": "pooping",
+        "question": "according to civil war historian alfred jay bollet, there was an unwritten code among soldiers that they would not shoot each other while _______."
+    },
+    {
+        "answer": "chainsaw artist",
+        "question": "cherie currie, lead singer of the iconic girl band the runaways, still records and performs, but her current \u201cday job\u201d is _______."
+    },
+    {
+        "answer": "soup",
+        "question": "bowser, the villain from nintendo\u2019s mario franchise, is a lot less intimidating once you know he was named after a korean _______."
+    },
+    {
+        "answer": "cats",
+        "question": "if you live in washoe county, nv, you may need a special permit to have more than seven _______."
+    },
+    {
+        "answer": "mural of Mandy Moore",
+        "question": "when a group of new yorkers moved into their queens apartment in 2017, they discovered their new shower included a _______."
+    },
+    {
+        "answer": "farting sheep",
+        "question": "in 2015, a cargo flight from australia to kuala lumpur had to make an unexpected landing after the fire alarm was set off by _______."
+    },
+    {
+        "answer": "sunscreen",
+        "question": "in 2016, kfc announced it created a _______ that smells like fried chicken."
+    },
+    {
+        "answer": "the flag of Denmark",
+        "question": "the husum red pied is a rare breed of pig that was intentionally bred to resemble _______."
+    },
+    {
+        "answer": "rat catcher",
+        "question": "in the mid-1800s, queen victoria employed a man named jack black, whose official job title was royal _______."
+    },
+    {
+        "answer": "beer",
+        "question": "german yoga instructor jhula teaches an unusual class that combines traditional yoga with _______."
+    },
+    {
+        "answer": "clown",
+        "question": "when in tonopah, nv, be sure to stay at the unique _______-themed motel."
+    },
+    {
+        "answer": "a telephone",
+        "question": "in an odd 1929 experiment, two princeton researchers were successfully able to transform a cat into _______."
+    },
+    {
+        "answer": "theme song",
+        "question": "the federal aviation administration is the only u.s. government agency that has its own _______."
+    },
+    {
+        "answer": "a nightmare about spiders",
+        "question": "former major leaguer glenallen hill once injured himself falling through a glass table. he was disoriented because he\u2019d just had _______."
+    },
+    {
+        "answer": "wireless radiation",
+        "question": "if you\u2019re in the market for men\u2019s briefs, a company called spartan designs its drawers to protect the wearer from _______."
+    },
+    {
+        "answer": "dildos",
+        "question": "in december 2016 a man tried unsuccessfully to rob a store in san bernardino, ca. employees drove him off by throwing _______ at him."
+    },
+    {
+        "answer": "aggressive squirrels",
+        "question": "one month after publicly denouncing \u201c_______,\u201d chicago alderman howard brookins was seriously injured in an accident caused by one."
+    },
+    {
+        "answer": "killing bigfoot",
+        "question": "in 2017, neuropsychologist dr. samuel webb sentell brought up the important question \u201cis _______ murder?\u201d"
+    },
+    {
+        "answer": "aliens",
+        "question": "grip, a london-based insurance company, made a cool \u00e2\u00a34 mil in the early 2000s by selling an odd policy that protected customers from _______."
+    },
+    {
+        "answer": "sliced cheese",
+        "question": "the employees of a cvs pharmacy in virginia locked themselves in a back room and called police after a customer asked one of them for _______."
+    },
+    {
+        "answer": "a Valium",
+        "question": "a customer of the sands casino in pennsylvania was arrested after tipping an employee. that\u2019s because instead of cash or chips, he gave out _______."
+    },
+    {
+        "answer": "dead cows",
+        "question": "the south fork of the chicago river is known as \u201cbubbly creek.\u201d it bubbles because it\u2019s where people used to dump their _______."
+    },
+    {
+        "answer": "Mollie\u2019s Nipple",
+        "question": "at least seven different mountain peaks in utah share the odd name \u201c_______.\u201d"
+    },
+    {
+        "answer": "pornographic snowmen",
+        "question": "the miracle of 1511 was a festival in brussels, belgium where the citizens displayed their displeasure with the government by making _______."
+    },
+    {
+        "answer": "a beard",
+        "question": "paul scully-power was not only the first australian to launch into space; he was also the very first astronaut to have _______."
+    },
+    {
+        "answer": "Oh My God",
+        "question": "on october 15, 1991, physicists discovered a cosmic ray with so much raw power they simply named it the \u201c_______ particle.\u201d"
+    },
+    {
+        "answer": "tripping on an orange peel",
+        "question": "bobby leach, the second person to survive a trip over niagara falls, eventually met his demise in a much less exciting fashion: he died after _______."
+    },
+    {
+        "answer": "mountain",
+        "question": "eccentric beijing resident zhang biqing decided his apartment building was missing something, so naturally he built a _______ on the roof."
+    },
+    {
+        "answer": "biting off your penis",
+        "question": "banana slugs sometime perform \u201capophallation,\u201d which is the act of _______."
+    },
+    {
+        "answer": "a sea cucumber\u2019s butt",
+        "question": "many pearlfish make their homes inside _______."
+    },
+    {
+        "answer": "Turner D. Century",
+        "question": "there\u2019s a marvel comics villain who wears clothes from the 1900s and rides a flying tandem bicycle with a similarly dressed female mannequin. his name, of course, is _______."
+    },
+    {
+        "answer": "signature",
+        "question": "texan jimmie luecke is unique in that you can see his _______ from space."
+    },
+    {
+        "answer": "cannibal hamsters",
+        "question": "as france has begun growing more corn, they\u2019ve noticed a shocking side effect: their cornfields are full of _______."
+    },
+    {
+        "answer": "Christmas trees",
+        "question": "once a year, the elephants in vienna\u2019s zoo are allowed to eat _______."
+    },
+    {
+        "answer": "Big Mac sauce",
+        "question": "in january of 2017, ebay saw some strange activity. sellers were asking as much as $50,000 for bottles of _______."
+    },
+    {
+        "answer": "slap",
+        "question": "a chinese therapist named xiao hongchi performs an expensive yet painful treatment for \u201cpoisoned blood\u201d known as \u201c_______ therapy.\u201d"
+    },
+    {
+        "answer": "a hand grenade",
+        "question": "a man in shaanxi, china was shocked to find out that the thing he had been using as a nutcracker was actually _______."
+    },
+    {
+        "answer": "flying penises",
+        "question": "in order to keep disease away, ancient roman children were made to wear \u201cfascinum,\u201d which were amulets shaped like _______."
+    },
+    {
+        "answer": "swingers club",
+        "question": "squirrel creek wildlife rescue in colorado was closed in 2016. the owner claims it was because authorities didn\u2019t like the _______ he runs on the same property."
+    },
+    {
+        "answer": "spicy boys",
+        "question": "if you want to help it reach its goal of 150,000 signatures, log into change.org and sign the petition titled \u201crename fire ants to _______!!!\u201d"
+    },
+    {
+        "answer": "1",
+        "question": "the record for the most money spent on vanity license plates is currently held by a man from abu dhabi who, in 2008, spent about $14 million so his could say \u201c_______.\u201d"
+    },
+    {
+        "answer": "Ramrod",
+        "question": "according to the washington post, the secret service code name for 1996 republican presidential nominee bob dole was _______."
+    },
+    {
+        "answer": "My Way",
+        "question": "when singing karaoke in the philippines, you might want to avoid the song that\u2019s resulted in at least half a dozen murders; otherwise you could be the latest victim of the _______ killings."
+    },
+    {
+        "answer": "Uncombable Hair",
+        "question": "the rare genetic malady \u201cpili trianguli et canaliculi,\u201d which affects mainly children under 12, is more commonly known as _______ syndrome."
+    },
+    {
+        "answer": "Soccer Ball",
+        "question": "in 2004, u.s. service members gave soccer balls to iraqis as part of a humanitarian mission with the shocking code name operation _______."
+    },
+    {
+        "answer": "a nice cup of tea",
+        "question": "in 1946, animal farm author george orwell found his more sensitive side in an essay he wrote for the evening standard that explained how to make _______."
+    },
+    {
+        "answer": "iron pants",
+        "question": "because of his ability to stay on-air for hours, nbc newsman lester holt has earned the nickname _______ from his colleagues."
+    },
+    {
+        "answer": "blinded",
+        "question": "according to some historians, composers bach and handel were both _______ by the same man."
+    },
+    {
+        "answer": "a Christmas tree",
+        "question": "in 1902, teddy roosevelt\u2019s son archie had a big secret: he had smuggled _______ into the white house."
+    },
+    {
+        "answer": "lower their taxes",
+        "question": "according to \u201970s superstars abba, their outrageous costumes weren\u2019t just a fashion statement. they were also meant to _______."
+    },
+    {
+        "answer": "commit 11 felonies",
+        "question": "if you ever find yourself with nine hours to kill in nashville, you could do what william todd did in that time in 2012, which was _______."
+    },
+    {
+        "answer": "Wise Guy",
+        "question": "in 1998, joe pesci dropped a rap song called \u201c_______.\u201d"
+    },
+    {
+        "answer": "megabus",
+        "question": "you missed your chance to enter the 2017 \u201cmarry me on a _______\u201d sweepstakes."
+    },
+    {
+        "answer": "bed-warmer",
+        "question": "viktoria ivachyova has a unique job: her official title is human _______."
+    },
+    {
+        "answer": "Pikachu",
+        "question": "despite an online campaign from fans, danny devito stated in 2017 that he would not be the new voice of _______."
+    },
+    {
+        "answer": "garden",
+        "question": "in 2007, bill nye filed a restraining order against his estranged wife after she tried to destroy his _______."
+    },
+    {
+        "answer": "science fiction",
+        "question": "since 1986, fans of \u201cfilking\u201d have attended the ohio valley filk fest to celebrate their combined love of folk music and _______."
+    },
+    {
+        "answer": "their pet",
+        "question": "according to some odd stats provided by the search engine bing, in 2016, the average person spent $26 on _______ for valentines day."
+    },
+    {
+        "answer": "time travel",
+        "question": "the echo park neighborhood in los angeles is home to a unique \u201cconvenience\u201d store. it\u2019s called the _______ mart."
+    },
+    {
+        "answer": "severed limbs",
+        "question": "hoegh industries of gladstone, mi has produced quality pet caskets since 1966. oddly, their caskets are also used for burying _______."
+    },
+    {
+        "answer": "rodeo",
+        "question": "every sunday in october at the louisiana state penitentiary, children two years old or younger get free admittance to the angola prison _______."
+    },
+    {
+        "answer": "suicide",
+        "question": "when milton bradley first introduced his checkered game of life in 1860, players with bad luck might have landed on a _______ spot."
+    },
+    {
+        "answer": "asparagus",
+        "question": "jemima packington has a special and unique skill. she claims she can predict the future by using _______."
+    },
+    {
+        "answer": "Domino\u2019s",
+        "question": "beginning in 2017, engaged couples can now register for gifts at _______."
+    },
+    {
+        "answer": "taking selfies",
+        "question": "funeral directors in quebec are facing an odd challenge: they\u2019re trying to stop people from _______ during services."
+    },
+    {
+        "answer": "Harambe",
+        "question": "on february 7, 2017, a flamin\u2019 hot cheeto sold for $99,900 on ebay because it looked like _______."
+    },
+    {
+        "answer": "time travelers",
+        "question": "on june 28, 2009, physicist stephen hawking held a party that was only open to _______."
+    },
+    {
+        "answer": "Gordon Ramsay",
+        "question": "for a reasonable fee, martin jordan will entertain wedding guests as a _______ lookalike."
+    },
+    {
+        "answer": "in-home haircuts",
+        "question": "tennessee state senator lee harris proposed a bill in early 2017 that would legalize _______."
+    },
+    {
+        "answer": "well-behaved kids",
+        "question": "antonio ferrari owns a wine bar in the italian city of padua where he gives a discount to people with _______."
+    },
+    {
+        "answer": "shampoo technician",
+        "question": "in the state of tennessee, you must complete a written exam and 300 hours of practice in order to hold the position of _______."
+    },
+    {
+        "answer": "get an ID chip implanted",
+        "question": "missouri law 285.035.1 says no employer can force their employees to _______."
+    },
+    {
+        "answer": "Napoleon\u2019s penis",
+        "question": "in 1977, john j. lattimer attended an auction and purchased an odd piece of history. that day, he became the proud owner of _______."
+    },
+    {
+        "answer": "a Trump handshake",
+        "question": "the relson gracie jiu-jitsu academy posted an instructional video on how to protect yourself against _______."
+    },
+    {
+        "answer": "apology letter",
+        "question": "nick lutz, a student at stetson university, made headlines after he publicly graded his ex-girlfriend\u2019s _______."
+    },
+    {
+        "answer": "trash",
+        "question": "terri cox isn\u2019t your typical mother. she sent her son, a college student, a care package filled with _______."
+    },
+    {
+        "answer": "janitor",
+        "question": "flamin\u2019 hot cheetos were not invented by a brilliant scientist, but rather a _______."
+    },
+    {
+        "answer": "aliens",
+        "question": "winston churchill wrote an unusual and unpublished essay in 1939 on the topic of _______."
+    },
+    {
+        "answer": "maple syrup",
+        "question": "in 2013, there was a controversy surrounding canada\u2019s new $100 bill. many claimed it smelled like _______."
+    },
+    {
+        "answer": "a ferret",
+        "question": "a woman in edmonton was issued a ticket in 2017 after she was caught driving while wearing _______."
+    },
+    {
+        "answer": "stress balls",
+        "question": "after president trump took office, scientists at the research councils uk decided to send their u.s. colleagues _______."
+    },
+    {
+        "answer": "fall down the stairs",
+        "question": "ever heard of \u201cclimacophilia\u201d? it\u2019s when you can only be sexually gratified when you _______."
+    },
+    {
+        "answer": "pineapple pizza",
+        "question": "facing pressure from high-school students, iceland\u2019s president, gudni johannesson, went on record on facebook to announce that he would not ban _______."
+    },
+    {
+        "answer": "Monopoly",
+        "question": "the duke of york revealed that the royal family is not allowed to play _______ because it gets \u201ctoo vicious.\u201d"
+    },
+    {
+        "answer": "eyebrows",
+        "question": "among the advice given to game of thrones actor emilia clarke by her mother was \u201cdon\u2019t do drugs, have sex, or touch your _______.\u201d"
+    },
+    {
+        "answer": "doing the wave",
+        "question": "during the 2016-2017 nhl season, the arizona coyotes made a plea to their fans to stop _______."
+    },
+    {
+        "answer": "his false teeth",
+        "question": "in 1923, boston red sox player clarence blethen cut his butt cheek open when he slid into second with _______ in his pocket."
+    },
+    {
+        "answer": "iPhone",
+        "question": "san antonio spur matt bonner suffered a swollen elbow because, according to him, his _______ was too big."
+    },
+    {
+        "answer": "open a DVD case",
+        "question": "in 2001, padres pitcher adam eaton took a knife to the gut when he tried to _______."
+    },
+    {
+        "answer": "kidney",
+        "question": "a doctor in long island sued his ex-wife, demanding she either pay him $1.5 million or return the _______ he had given her."
+    },
+    {
+        "answer": "massaging horses",
+        "question": "despite being threatened with hefty fines and jail time, laurie wheeler of leiper\u2019s fork, tn says she will not stop _______."
+    },
+    {
+        "answer": "sex tsar",
+        "question": "edelmira barreira has an interesting job: spain just made her the nation\u2019s first _______."
+    },
+    {
+        "answer": "flying",
+        "question": "ever had betsy beer? it\u2019s brewed so that it tastes best when you\u2019re _______."
+    },
+    {
+        "answer": "bagels",
+        "question": "in february of 2017, police in the uk had to break up a fight on a train that broke out after passengers kept placing _______ on another passenger\u2019s head."
+    },
+    {
+        "answer": "Boney",
+        "question": "napoleon bonaparte\u2019s young friend, 13-year-old betsy balcombe, gave him the somewhat awkward nickname _______."
+    },
+    {
+        "answer": "an astronaut",
+        "question": "the maximum height is 75 inches if you want to be _______ in the u.s."
+    },
+    {
+        "answer": "fashion models",
+        "question": "per capita, the small eastern european country of estonia is the world\u2019s leading producer of _______."
+    },
+    {
+        "answer": "syphilis",
+        "question": "\u201cgrandgore\u201d is the common scottish nickname for _______."
+    },
+    {
+        "answer": "This is Sparta",
+        "question": "in 2008, kevin xu and jake bryant ran a successful online campaign that encouraged fellow high-school students to write the catchphrase \u201c_______\u201d in the essay section of their ap exams."
+    },
+    {
+        "answer": "The Spice Girls",
+        "question": "in 1997, nelson mandela said, \u201cthese are my heroes.\u201d surprisingly, he was talking about meeting _______."
+    },
+    {
+        "answer": "Margaritaville",
+        "question": "in 2018, the minto communities will be opening a _______-themed retirement home."
+    },
+    {
+        "answer": "breasts",
+        "question": "a moscow zoo became concerned when thomas the raccoon developed a sudden obsession with _______."
+    },
+    {
+        "answer": "Pornhub.com",
+        "question": "in march 2017, boston residents were surprised by a massive snowstorm. they were even more surprised when they found their streets being plowed by _______."
+    },
+    {
+        "answer": "Bargain Booze",
+        "question": "before changing its name to the help for heroes stadium, the soccer facility in northwich, england was known by the less classy title _______ stadium."
+    },
+    {
+        "answer": "the Chicago Cubs",
+        "question": "since receiving a bootlegged satellite tv feed in 1981, nearly the entire nation of belize have become faithful fans of _______."
+    },
+    {
+        "answer": "George",
+        "question": "when uranus was first discovered, it was given a latin name that translated to \u201cthe planet of _______.\u201d"
+    },
+    {
+        "answer": "come to his birthday party",
+        "question": "al capone\u2019s goons once held fats waller at gunpoint because they wanted the jazz musician to _______."
+    },
+    {
+        "answer": "Jesus Christ\u2019s grave",
+        "question": "the japanese town of aomori claims it\u2019s unique because it\u2019s where you\u2019ll find _______."
+    },
+    {
+        "answer": "drink coffee",
+        "question": "in order to prove it was dangerous, king gustav iii of sweden once punished a prisoner by forcing him to _______ every day for the rest of his life."
+    },
+    {
+        "answer": "Sheep",
+        "question": "even after the death of a child on the white house lawn, thomas jefferson refused to get rid of his dangerous _______."
+    },
+    {
+        "answer": "Lizard Man",
+        "question": "in the \u201980s and \u201990s, multiple residents of lee county, sc claimed their cars were attacked and ripped apart by a seven-foot-tall _______."
+    },
+    {
+        "answer": "played jazz music",
+        "question": "on march 19, 1919, the mysterious axeman of new orleans wrote a local paper promising not to murder anyone who _______."
+    },
+    {
+        "answer": "drink coffee",
+        "question": "in the 17th century, pope clement viii went against his advisors and declared it acceptable for catholics to _______."
+    },
+    {
+        "answer": "a coconut",
+        "question": "in 2013, police in the maldives detained a suspect for loitering near an election polling place on suspicion of black magic. the suspect in question was _______."
+    },
+    {
+        "answer": "Mountain Dew",
+        "question": "in the arab country of oman, a drink known by locals as \u201comani-alcohol\u201d is better known elsewhere as _______."
+    },
+    {
+        "answer": "witches",
+        "question": "in 2016, london\u2019s wellcome library put manuscript 3658 online, which helps people of scottish ancestry determine if any of their of ancestors were _______"
+    },
+    {
+        "answer": "nudity",
+        "question": "virginia is the only u.s. state whose flag features _______."
+    },
+    {
+        "answer": "plastic knee windows",
+        "question": "as part of their spring 2017 line, nordstrom introduced revolutionary jeans that come with _______."
+    },
+    {
+        "answer": "Terryology",
+        "question": "empire star terrence howard revealed in a rolling stone interview that he has created his own version of math called _______."
+    },
+    {
+        "answer": "A nuclear bomb",
+        "question": "in 1952, ted taylor of nevada became the first person to light a cigarette with _______."
+    },
+    {
+        "answer": "Can of shrimp",
+        "question": "it\u2019s never easy dating while raising a kid. just ask the deltona, fl mom whose son attacked her boyfriend with a samurai sword because he believed the boyfriend stole his _______."
+    },
+    {
+        "answer": "get married",
+        "question": "princess olga of tenth-century century russia had a nasty reputation for killing anyone who suggested she _______."
+    },
+    {
+        "answer": "the moon landing",
+        "question": "fifteen people in ottawa complained to their local tv station when a broadcast of star trek was interrupted by _______."
+    },
+    {
+        "answer": "snakes",
+        "question": "the haar mode team salon in germany offers customers the rare opportunity to be massaged by _______."
+    },
+    {
+        "answer": "fake bananas",
+        "question": "in march of 2017, police arrested two guys in spain for trying to smuggle 15 pounds of cocaine in _______."
+    },
+    {
+        "answer": "eating pancakes",
+        "question": "in 2017, police in lakewood, fl were called about a man who was _______ in a busy street."
+    },
+    {
+        "answer": "spirit medium",
+        "question": "before victoria woodhull became the first female u.s. presidential candidate, she toured the country entertaining crowds as a _______."
+    },
+    {
+        "answer": "Solved her own murder",
+        "question": "the ghost of zona heaster shue, aka the greenbrier ghost of west virginia, is known as the only ghost who _______."
+    },
+    {
+        "answer": "Artichoke",
+        "question": "california mobster ciro terranova was a terror in the early 1900s, but you probably wouldn\u2019t be intimidated if you knew his nickname was the _______ king."
+    },
+    {
+        "answer": "pregnant",
+        "question": "in 2002, walmart decided to pull a controversial toy from its shelves. it was a doll called _______ midge."
+    },
+    {
+        "answer": "Monopoly games",
+        "question": "during wwii, the british helped their captured soldiers escape german prison camps by hiding compasses, files, and maps inside _______."
+    },
+    {
+        "answer": "wasp",
+        "question": "jibachi senbei are an odd japanese snack treat also known as _______ crackers."
+    },
+    {
+        "answer": "Alcoholics Anonymous",
+        "question": "the 1962 book sex and the single girl suggested that single women meet men at _______."
+    },
+    {
+        "answer": "Reese\u2019s Cups",
+        "question": "in 2015, the works gourmet burger chain in canada debuted the pbc burger which contains bacon, crispy onion strings, and a patty stuffed with _______."
+    },
+    {
+        "answer": "Police Station",
+        "question": "in london\u2019s trafalgar square, there\u2019s an ornamental light fixture that hides britain\u2019s smallest _______."
+    },
+    {
+        "answer": "donuts",
+        "question": "the only commercial elvis ever made was for _______."
+    },
+    {
+        "answer": "did Sudoku",
+        "question": "in december 2015, researchers at the university of munich reported the strange case of a student who had seizures every time he _______."
+    },
+    {
+        "answer": "Sex",
+        "question": "in april 1927, actress mae west was convicted of producing an immoral play and sentenced to ten days in jail. the title of the play was _______."
+    },
+    {
+        "answer": "pottery",
+        "question": "during prohibition, the coors brewing company survived by starting a side business selling _______."
+    },
+    {
+        "answer": "drowning dolls",
+        "question": "during the polish holiday of topienie marzanny, people celebrate the end of winter through the odd tradition of _______."
+    },
+    {
+        "answer": "wifi",
+        "question": "in 2015, a french court awarded a woman $900 a month in disability benefits because of her supposed allergic reactions to _______."
+    },
+    {
+        "answer": "KFC Chicken",
+        "question": "over the last decade, japan has developed a unique holiday tradition. more than three million people are eating _______ on christmas."
+    },
+    {
+        "answer": "tidbits",
+        "question": "during wwii, the national research center attempted to make organ meats more appealing to americans by renaming them \u201c_______.\u201d"
+    },
+    {
+        "answer": "the worst possible people",
+        "question": "coined in 1829, \u201ckakistocracy\u201d is the word for a society governed by _______."
+    },
+    {
+        "answer": "light switches",
+        "question": "during his term as u.s. president, benjamin harrison refused to touch _______."
+    },
+    {
+        "answer": "a Britney Spears concert",
+        "question": "the israeli labor party moved the date of a 2017 election because it was on the same day as _______."
+    },
+    {
+        "answer": "misspelled tattoos",
+        "question": "in 2015, the caro y cuervo institute, a colombian educational center, offered to fix people\u2019s _______."
+    },
+    {
+        "answer": "switching to solar power",
+        "question": "residents of harlan county, ky were surprised in 2017 by news that the kentucky coal mining museum was _______."
+    },
+    {
+        "answer": "grave diggers",
+        "question": "in slovakia, two brothers, ladislav and csaba, beat out 10 other teams to be named central europe\u2019s fastest _______."
+    },
+    {
+        "answer": "cheap pizza",
+        "question": "in 2015, finnish police started a strange social media campaign asking the public to report anyone selling _______."
+    },
+    {
+        "answer": "twitter access",
+        "question": "in an attempt to reduce shark attacks, government researchers in australia gave over 300 sharks _______."
+    },
+    {
+        "answer": "annoy",
+        "question": "despite it being a crime for the last 38 years, in 2014 grand rapids officially made it legal to _______ another person."
+    },
+    {
+        "answer": "reindeer",
+        "question": "during world war ii, a russian admiral gave an unexpected gift to the british crew of the hms trident. he got them a _______ for their submarine."
+    },
+    {
+        "answer": "a Penguin",
+        "question": "in 2005, a statue was erected in edinburgh to honor sir nils olav, the first member of the norwegian king\u2019s guard to also be _______."
+    },
+    {
+        "answer": "hair",
+        "question": "neil armstrong once threatened to sue a man if he didn\u2019t return the astronaut\u2019s _______."
+    },
+    {
+        "answer": "a dog",
+        "question": "during the 18th century, admission to see the exotic animals at london\u2019s royal menagerie was three halfpence. but you could avoid the charge if you simply brought _______."
+    },
+    {
+        "answer": "diabetics\u2019 urine",
+        "question": "in 2010, british biomedical researcher james gilpin bottled and distilled his own brand of single malt whiskey that\u2019s fermented using _______."
+    },
+    {
+        "answer": "Julia Roberts",
+        "question": "a newspaper vendor in chile spent 10 years getting more than 80 tattoos over his entire body, all of which depict _______."
+    },
+    {
+        "answer": "Twitter follower",
+        "question": "in 2012, venezuelan president hugo ch\u00e3\u00a1vez gave a 19-year-old woman a new house after she became his _______."
+    },
+    {
+        "answer": "flamethrowers",
+        "question": "in the late \u201890s, south african inventor charl fourie tried to prevent carjackings by attaching _______ to cars."
+    },
+    {
+        "answer": "alcohol",
+        "question": "in 2011, the russian government officially declared that beer is _______."
+    },
+    {
+        "answer": "bad singing",
+        "question": "since 1989, scientists have been tracking \u201cthe loneliest whale in the world\u201d who they believe is so lonely because of its _______."
+    },
+    {
+        "answer": "holy water",
+        "question": "the world\u2019s first vending machine dispensed _______."
+    },
+    {
+        "answer": "catching Pokemon",
+        "question": "in october 2015, while she was supposed to be listening to a debate in parliament, the norwegian prime minister was caught in the embarrassing act of _______."
+    },
+    {
+        "answer": "Secret Santa",
+        "question": "since the tradition was started by sam elton-walter in 2010, thousands of new zealanders have participated in an annual nationwide _______."
+    },
+    {
+        "answer": "Texas",
+        "question": "in norway, a common way to describe a crazy situation is to say it\u2019s \u201ctotally _______.\u201d"
+    },
+    {
+        "answer": "Swimming",
+        "question": "in honor of one of his lesser-known accomplishments, ben franklin was a 1968 inductee into the international _______ hall of fame."
+    },
+    {
+        "answer": "skydiving dogs",
+        "question": "in addition to traditional law enforcement, south africa has begun fighting poachers with more than 200 _______."
+    },
+    {
+        "answer": "Ghosts",
+        "question": "a british woman going by the name amethyst realm has publicly sworn off men and now prefers romantic relationships with _______."
+    },
+    {
+        "answer": "Meow like cats",
+        "question": "in the middle ages, a mysterious affliction struck a french convent, causing all of the nuns to _______."
+    },
+    {
+        "answer": "Marine",
+        "question": "though she didn\u2019t like talking about it, golden girls star bea arthur spent over two years of her 20s as a _______."
+    },
+    {
+        "answer": "a volcano",
+        "question": "february 20, 1943 was a fateful day for mexican farmer dionisio pulido. he looked into his cornfield and was shocked to find _______."
+    },
+    {
+        "answer": "glowing blue",
+        "question": "at the battle of shiloh in 1862, injured soldiers were shocked to discover that some of their wounds were _______."
+    },
+    {
+        "answer": "lemons",
+        "question": "in an odd form of tribute, visitors to the grave of u.s. civil war general \u201cstonewall jackson\u201d often leave _______ instead of flowers."
+    },
+    {
+        "answer": "Virus",
+        "question": "if your birthday is october 3rd, congratulations! your special day is also known as _______ appreciation day."
+    },
+    {
+        "answer": "started their own country",
+        "question": "on april fool\u2019s day 1973, yoko ono and john lennon held a press conference, at which they announced they had _______."
+    },
+    {
+        "answer": "giant puppets",
+        "question": "in an unusual attempt to engage its members, the braddock, pa library announced that in 2017 they would begin lending out _______."
+    },
+    {
+        "answer": "Chicken Soup for the Soul",
+        "question": "the band insane clown posse was sued in 2017 for allegedly plagiarizing from _______."
+    },
+    {
+        "answer": "enjoy jazz",
+        "question": "in 2011, researchers at albany medical college discovered rats that had been given cocaine were more likely to _______."
+    },
+    {
+        "answer": "ice hockey",
+        "question": "in 2016, the carthage eagles of tunisia became the first ever african _______ champions."
+    },
+    {
+        "answer": "yawn",
+        "question": "in 2011, british researcher dr. anna wilkinson spent six months teaching a tortoise to _______."
+    },
+    {
+        "answer": "Steve Buscemi",
+        "question": "in 2012, two researchers conducted a quantitative investigation of coolness in order to determine if _______ was cool."
+    },
+    {
+        "answer": "ovulating",
+        "question": "goel ratzon was a bizarre israeli cult leader who issued his followers cell phones so they could text him when they were _______."
+    },
+    {
+        "answer": "mummify",
+        "question": "\u201csokushinbutsu\u201d is an ancient buddhist practice in which monks would _______ themselves."
+    },
+    {
+        "answer": "Boners",
+        "question": "before he became famous, dr. seuss illustrated a 1941 book with the strange title a pocket book of _______."
+    },
+    {
+        "answer": "Yo-Yo",
+        "question": "when ancient greek children reached adulthood, they were expected to please the gods by putting their _______ on an altar."
+    },
+    {
+        "answer": "Died of fright",
+        "question": "director william castle advertised his film macabre by offering $1,000 to any audience member who _______."
+    },
+    {
+        "answer": "Baby",
+        "question": "when scientists scanned the coffin of seventeenth-century bishop peder winstrup, they were shocked to find a hidden _______."
+    },
+    {
+        "answer": "peeing",
+        "question": "there\u2019s a famous statue near the brussels town hall that\u2019s said to embody the spirit of the city. it depicts a little boy who is _______."
+    },
+    {
+        "answer": "filmmakers",
+        "question": "when he wasn\u2019t busy being dictator of north korea, kim jong il wrote and published a book of thoughtful advice for _______."
+    },
+    {
+        "answer": "saunas",
+        "question": "finland\u2019s military is unique in that they provide their troops with mobile _______."
+    },
+    {
+        "answer": "Mom\u2019s Purse",
+        "question": "missouri candlemaker 5b&co. sells a scented soy candle with the name \u201cthe bottom of _______.\u201d"
+    },
+    {
+        "answer": "an unborn duck",
+        "question": "next time you party a little too hard, try \u201cbalut.\u201d it\u2019s a traditional philippines hangover cure that consists of an egg filled with _______."
+    },
+    {
+        "answer": "Jell-O",
+        "question": "in 1904, mrs. john e. cook invented \u201cthe perfection salad.\u201d it\u2019s mostly just a regular tossed salad, but the twist is that it\u2019s served in _______."
+    },
+    {
+        "answer": "baby mice",
+        "question": "there\u2019s a medicinal drink from ancient china and korea that consists of rice wine fermented with 10 to 15 _______."
+    },
+    {
+        "answer": "a dead squirrel",
+        "question": "in 2016, the scottish craft brewery brewdog offered a $20,000 beer called \u201cend of history.\u201d it had a 55% alcohol content and was served inside _______."
+    },
+    {
+        "answer": "Scrabble",
+        "question": "romanian dictator nicolae ceausescu was once so afraid of intellectualism that he banned _______."
+    },
+    {
+        "answer": "KFC",
+        "question": "in a desperate move to get out of a recent slump, the new zealand postal service began delivering _______."
+    },
+    {
+        "answer": "Warren Buffett",
+        "question": "for a limited time in 2017, cans of cherry coke in china featured the face of _______."
+    },
+    {
+        "answer": "sock puppet",
+        "question": "on december 3, 2013, tsa in st. louis confiscated a gun from a passenger\u2019s _______."
+    },
+    {
+        "answer": "rainy days",
+        "question": "in 2013, a canadian man sued the dominican republic because while on vacation there, there were too many _______."
+    },
+    {
+        "answer": "Nasal Ranger",
+        "question": "in order to detect illegal levels of odor from marijuana smoke, denver police use a device called the _______."
+    },
+    {
+        "answer": "a sensitive lover",
+        "question": "in a rather odd study published in scientific reports in 2017, researchers claim that the t. rex was _______."
+    },
+    {
+        "answer": "condom",
+        "question": "in 2013, the bill & melinda gates foundation offered $100,000 for someone to invent a more enjoyable _______."
+    },
+    {
+        "answer": "eyebrows",
+        "question": "\u201cglabella\u201d is the term for describing the space between _______."
+    },
+    {
+        "answer": "pizza crust",
+        "question": "you probably call it something else, but the term \u201ccornicione\u201d refers to the outer edge of _______."
+    },
+    {
+        "answer": "a butt",
+        "question": "the term \u201cnatiform\u201d refers to anything that is shaped like _______."
+    },
+    {
+        "answer": "eaten ice cream",
+        "question": "\u201csphenopalatine ganglioneuralgia\u201d may sound like a life-threatening affliction, but you\u2019ve probably already had it if you\u2019ve ever _______."
+    },
+    {
+        "answer": "wearing pants",
+        "question": "in 1993, ahmed shafik conducted an experiment on how the sex lives of rats were affected by _______."
+    },
+    {
+        "answer": "rocks",
+        "question": "in 2013, marketing theory published an odd study that assessed the personalities of _______."
+    },
+    {
+        "answer": "explode",
+        "question": "in 2007, a team of french doctors wrote a paper advising how best to give a colonoscopy that wouldn\u2019t make patients _______."
+    },
+    {
+        "answer": "painful gas",
+        "question": "in 2009, a japanese research team invented a fire alarm that, instead of making loud noises, releases _______."
+    },
+    {
+        "answer": "roller coasters",
+        "question": "a may 2007 issue of behaviour research and therapy published a surprising paper that found asthma could be treated with _______."
+    },
+    {
+        "answer": "Bearded Men",
+        "question": "in 1967, the industrial health and safety office published a paper about safety in the lab entitled \u201cmicrobiological laboratory hazard of _______.\u201d"
+    },
+    {
+        "answer": "Phyllis Diller jokes",
+        "question": "in early 2017, the smithsonian put out a call for volunteers to help archive more than 50,000 index cards containing _______."
+    },
+    {
+        "answer": "sweat",
+        "question": "a 2017 story on vice.com revealed that apple has a lab technician whose job is to produce fake _______."
+    },
+    {
+        "answer": "ovulate",
+        "question": "in 2007, researchers at the university of nevada found that professional lap dancers earn higher tips when they _______."
+    },
+    {
+        "answer": "suicides",
+        "question": "in 1992, a study claimed that cities with higher than average country music radio market share also had more _______."
+    },
+    {
+        "answer": "Dead People",
+        "question": "lal bihari, from uttar pradesh, india, is both the founder and a member of the unusual association of _______."
+    },
+    {
+        "answer": "donkeys",
+        "question": "a unique colorado charity called longhopes finds homes for unwanted _______."
+    },
+    {
+        "answer": "swans",
+        "question": "thanks to a 1482 law that\u2019s still largely observed today, the queen of england owns almost all of the country\u2019s _______."
+    },
+    {
+        "answer": "British air",
+        "question": "entrepreneur leo de watts has made a hefty sum selling $115 bottles of _______ to china."
+    },
+    {
+        "answer": "Chilean flag emojis",
+        "question": "in 2017, texas state lawmaker tom oliverson urged people not to use _______."
+    },
+    {
+        "answer": "Tom Brady",
+        "question": "in 2017, the atlanta zoo lost a bet with a rhode island zoo and had to name their new baby hissing cockroach _______."
+    },
+    {
+        "answer": "JFK\u2019s car",
+        "question": "in 1958, larry king crashed his car into _______."
+    },
+    {
+        "answer": "Gorillas",
+        "question": "scottish politician gisela allen said in 2017 that she finds herself extremely attracted to _______."
+    },
+    {
+        "answer": "golf balls",
+        "question": "a brand of frozen hash browns was recalled in 2017 because they were thought to be contaminated with _______."
+    },
+    {
+        "answer": "composting his girlfriend",
+        "question": "the co-founder of earth day, and master of ceremonies at the first earth day rally, was later arrested for _______."
+    },
+    {
+        "answer": "basketball court",
+        "question": "inside of the matterhorn mountain at disneyland, employees installed a secret _______."
+    },
+    {
+        "answer": "Angela Merkel",
+        "question": "at the 60th annual international toy fair in nuremberg, mattel presented an odd variant of a classic toy: the special edition _______ barbie."
+    },
+    {
+        "answer": "Germany\u2019s national anthem",
+        "question": "english rock musician pete doherty was booed off stage at a concert in germany for singing _______."
+    },
+    {
+        "answer": "tweet",
+        "question": "police arrested a man for sending journalist kurt eichenwald a dangerous _______."
+    },
+    {
+        "answer": "Rock Paper Scissors",
+        "question": "espn really pushed the definition of \u201csports\u201d in 2007 when they aired the national _______ championship."
+    },
+    {
+        "answer": "Nebraska Admiral",
+        "question": "queen elizabeth ii, bill murray, and big bird may not have a lot in common, but they\u2019ve all earned the honorary title of _______."
+    },
+    {
+        "answer": "Dull",
+        "question": "in 2012, boring, oregon became sister cities with a town in scotland named _______."
+    },
+    {
+        "answer": "die on Mars",
+        "question": "a 2015 ad campaign for south dakota used the slogan, \u201cwhy _______ when you can live in south dakota?\u201d"
+    },
+    {
+        "answer": "a Tinder profile",
+        "question": "in an attempt to get it to mate, a kenyan white rhino named sudan was given _______."
+    },
+    {
+        "answer": "beetles",
+        "question": "after david rockefeller died at the age of 101, harvard was given the billionaire\u2019s collection of over 150,000 _______."
+    },
+    {
+        "answer": "laundromat",
+        "question": "in april 2017, pope francis made headlines when he opened up his own _______."
+    },
+    {
+        "answer": "a tuba",
+        "question": "life was simpler in 2007. we had enough free time to discover you can arouse an alligator with _______."
+    },
+    {
+        "answer": "Rats eating the money",
+        "question": "colombian drug lord pablo escobar lost an estimated $2 billion due to _______."
+    },
+    {
+        "answer": "twins",
+        "question": "after being inspired by a surreal 1960s movie, russian restaurateur alexei khodorkovsky opened a bar staffed entirely by _______."
+    },
+    {
+        "answer": "huffing jet fuel",
+        "question": "bears living on the kronotsky nature reserve in russia have developed an unexpected addiction to _______."
+    },
+    {
+        "answer": "nature",
+        "question": "in 2008, ecuador became the first country to give equal rights to _______."
+    },
+    {
+        "answer": "Herb",
+        "question": "following the popularity of wendy\u2019s \u2018where\u2019s the beef?\u2019 campaign, burger king launched a competing campaign called \u201cwhere\u2019s _______?\u201d"
+    },
+    {
+        "answer": "cinnamon",
+        "question": "in denmark, on an unmarried person\u2019s 25th birthday, their friends throw _______ at them."
+    },
+    {
+        "answer": "a steel penis",
+        "question": "the kanamara matsuri is an annual japanese festival rooted in the legend of an evil demon. luckily, the demon was defeated by _______."
+    },
+    {
+        "answer": "finger",
+        "question": "in the german town of lenggries, more than 100 men gather to compete in the annual _______ wrestling championship."
+    },
+    {
+        "answer": "a glow-in-the-dark dinosaur",
+        "question": "in 2012, the canadian mint put the fun back in capitalism by releasing a 25-cent coin that featured _______."
+    },
+    {
+        "answer": "yak meat",
+        "question": "authorities at jfk airport made an impressive bust in april 2017 when they seized over 300 pounds of illegally smuggled _______."
+    },
+    {
+        "answer": "coconuts",
+        "question": "in 2017, scientists recreated the infamous 1962 escape from alcatraz to see if the men involved could have survived. but instead of prisoners, they used _______."
+    },
+    {
+        "answer": "a waterbed",
+        "question": "need to do some horse surgery? it may seem odd, but many veterinary manuals recommend laying the horse down on _______."
+    },
+    {
+        "answer": "a meteor crater",
+        "question": "nordlingen, germany is a quaint little town contained entirely inside _______."
+    },
+    {
+        "answer": "rubber chicken",
+        "question": "camilla corona, who went on five missions to the edge of space, was nasa\u2019s first _______ astronaut."
+    },
+    {
+        "answer": "in space",
+        "question": "in 1998, a perfume corporation, international flavors & fragrances, funded a study that discovered roses smell different when _______."
+    },
+    {
+        "answer": "leprechaun colony",
+        "question": "mill\u2019s end park in portland was founded in 1948 by dick fagan, who claimed it was home to the only _______ in north america."
+    },
+    {
+        "answer": "nuclear reactor",
+        "question": "reed college in oregon is the only liberal arts college in the world with a student-run _______."
+    },
+    {
+        "answer": "the center of the universe",
+        "question": "in september of 2004, the mayor of wallace, idaho made the bold claim that his town was _______."
+    },
+    {
+        "answer": "vomit acid",
+        "question": "the marvel comics character zeitgeist has a strange mutant power. whenever he wants, he can _______."
+    },
+    {
+        "answer": "asleep",
+        "question": "david lloyd clubs unveiled a new fitness class in 2017 to their sidcup, london location. to get in shape, people spent 45 minutes _______."
+    },
+    {
+        "answer": "dolphin vaginas",
+        "question": "dara orbach of dalhousie university has dedicated her life to an interesting field of study: solving the mystery of _______."
+    },
+    {
+        "answer": "riding a hoverboard",
+        "question": "while searching an alaskan dentist\u2019s phone in april 2017, prosecutors found a video of him working on a sedated patient while _______."
+    },
+    {
+        "answer": "Slobberer",
+        "question": "in the late 12th and early 13th centuries, the ancient kingdom of galicia was ruled by a monarch comically known as alfonso the _______."
+    },
+    {
+        "answer": "the queen\u2019s underwear",
+        "question": "in 1838, a british teenaged criminal named boy jones broke into buckingham palace. when police captured him, they found that he had _______ stuffed in his pants."
+    },
+    {
+        "answer": "President",
+        "question": "statistically, the most dangerous job in america is _______."
+    },
+    {
+        "answer": "stay in bed",
+        "question": "do you suffer from clinomania? if you do, then you have the overwhelming urge to _______."
+    },
+    {
+        "answer": "Frank Sinatra",
+        "question": "before it went to bruce willis, the first actor to be offered the lead role in die hard was _______."
+    },
+    {
+        "answer": "George Washington",
+        "question": "in 2017, the frick museum in new york city displayed an antonio canova statue of a nude _______."
+    },
+    {
+        "answer": "baseball stadium toilets",
+        "question": "in 2017, a new york city man made an odd cross-country journey to scatter his friend\u2019s ashes in _______."
+    },
+    {
+        "answer": "wallpaper cleaner",
+        "question": "before it was turned into a kids\u2019 toy, play-doh was designed as a _______."
+    },
+    {
+        "answer": "Batman bin Suparman",
+        "question": "in 2013, a 23-year-old man was jailed by singaporean police on theft and drug charges. when they checked his id card, they found he had the odd name of _______."
+    },
+    {
+        "answer": "The Beach Boys",
+        "question": "secretary of the interior james watt outraged americans when he banned _______ from washington\u2019s 1983 fourth of july celebrations."
+    },
+    {
+        "answer": "playing Tetris",
+        "question": "researchers from oxford university and the karolinska institute in sweden made the surprising discovery that traumatic memories can be blocked by _______."
+    },
+    {
+        "answer": "mountain made of salt",
+        "question": "one of the reasons thomas jefferson was excited to complete the louisiana purchase is because there were rumors of a giant _______ on the banks of the missouri river."
+    },
+    {
+        "answer": "exploded",
+        "question": "playing pool in the early 20th century had a particularly alarming feature: the cue balls _______."
+    },
+    {
+        "answer": "twilight",
+        "question": "\u201ccockshut\u201d is simply an old english word meaning \u201c_______.\u201d"
+    },
+    {
+        "answer": "inject a frog with urine",
+        "question": "british scientist lancelot hogben was the inventor of an odd pregnancy test. to see if you were expecting, all you had to do was _______."
+    },
+    {
+        "answer": "hamster jet lag",
+        "question": "a strange 2007 study by a team of argentinian researchers found that, in addition to its more popular uses, viagra can also cure _______."
+    },
+    {
+        "answer": "pig hair",
+        "question": "before the modern toothbrush was invented in 1938, toothbrush bristles were made from _______."
+    },
+    {
+        "answer": "the U.S. government",
+        "question": "in an odd turn of events, the 1965 academy awards marked the only year an oscar was won by _______."
+    },
+    {
+        "answer": "flirting",
+        "question": "in 1902, new york state assemblyman francis g. landon introduced a bill that would criminalize _______."
+    },
+    {
+        "answer": "falcon",
+        "question": "as if flying first class wasn\u2019t fancy enough already, german airline lufthansa now offers vips a special tray for their _______."
+    },
+    {
+        "answer": "rubbish",
+        "question": "a scottish woman, sally cogley, won a seat in her local election running as a member of the unusually named _______ party."
+    },
+    {
+        "answer": "hire pirates",
+        "question": "clause 11 in article 1, section 8 of the united states constitution gives congress the power to declare war. surprisingly, it also grants them power to _______."
+    },
+    {
+        "answer": "gas masks",
+        "question": "in the 1940s, walt disney worked with a partner company to design a line of somewhat disturbing mickey mouse _______."
+    },
+    {
+        "answer": "vacation fund",
+        "question": "sandra almeida of colombia got revenge on her cheating husband by eating his _______."
+    },
+    {
+        "answer": "use swear words",
+        "question": "a 2017 study from keele university in the uk claims that you can get in better physical shape if you _______."
+    },
+    {
+        "answer": "Sea monkeys",
+        "question": "harold von braunhut was a white supremacist who loaned thousands of dollars to hate groups. but weirdly, he also invented _______."
+    },
+    {
+        "answer": "be breastfed",
+        "question": "alia waters recently became the first person to _______ in australian parliament."
+    },
+    {
+        "answer": "Insanity",
+        "question": "as railroad travel grew in popularity in the victorian era, so did a belief that riding trains could cause _______."
+    },
+    {
+        "answer": "covered in slime",
+        "question": "an old scottish wedding tradition dictates that, in order to prepare the couple for the trials of marriage, they must be _______."
+    },
+    {
+        "answer": "Pee in the pool",
+        "question": "cyanogen chloride is a hazardous chemical with similar effects to tear gas, and it\u2019s produced when people _______."
+    },
+    {
+        "answer": "Hitler\u2019s nephew",
+        "question": "william patrick stuart-houston was awarded a purple heart during wwii, which is incredible considering he was _______."
+    },
+    {
+        "answer": "A lost city",
+        "question": "while renovating his home in 1963, a turkish man in the cappadocia region was surprised to find _______."
+    },
+    {
+        "answer": "doing stretches",
+        "question": "right before robbing a philadelphia dunkin donuts in april 2017, security camera footage caught a criminal doing something strange. he was _______ in the parking lot."
+    },
+    {
+        "answer": "win",
+        "question": "part of kitkat\u2019s popularity in japan is that its name sounds like the japanese phrase \u201ckitto katsu,\u201d which translates roughly to \u201cyou will surely _______.\u201d"
+    },
+    {
+        "answer": "pizza",
+        "question": "tony gemignani is the 12-time champion in the unusual sport of _______ acrobatics."
+    },
+    {
+        "answer": "a buttcrack",
+        "question": "reddit user tbonetheoriginal is known as the guy who doesn\u2019t have _______."
+    },
+    {
+        "answer": "zit popping",
+        "question": "if you think product unboxing videos are weird, then you clearly haven\u2019t checked out vikram yadav\u2019s youtube page. he\u2019s known for uploading _______ videos."
+    },
+    {
+        "answer": "DJ",
+        "question": "natalie elizabeth weiss wants to give your newborn an unusual skill, which is why she founded the baby _______ school."
+    },
+    {
+        "answer": "lower heating bills",
+        "question": "in 1979, winooski, vt proposed building a protective dome that would cover the entire town. they thought this would help _______."
+    },
+    {
+        "answer": "traffic",
+        "question": "tom battista is the mastermind behind an upcoming scenic park in indianapolis. the weird part is it\u2019s designed to overlook _______."
+    },
+    {
+        "answer": "The Da Vinci Code",
+        "question": "in 2017, a charity shop in swansea, wales had to put up a sign requesting that people stop donating _______."
+    },
+    {
+        "answer": "lasagna",
+        "question": "peter kazimir, financial minister of slovakia, had an odd way of describing the social unrest sweeping europe. he called it a \u201c_______ of evil.\u201d"
+    },
+    {
+        "answer": "40 barrels and 20 kegs of coca-cola",
+        "question": "sometimes the u.s. supreme court has to take on odd cases, like case no. 562, \u201cu.s. v. _______.\u201d"
+    },
+    {
+        "answer": "throwing them out a window",
+        "question": "on may 23, 1618, several frustrated citizens of prague creatively removed their politicians from office by _______."
+    },
+    {
+        "answer": "parrot breeding",
+        "question": "the developers of the video game minecraft drew controversy in 2017 after fans criticized the game\u2019s depiction of _______."
+    },
+    {
+        "answer": "Commercial pilot",
+        "question": "in 2017, dutch media discovered that king willem-alexander had been living a double life as a _______."
+    },
+    {
+        "answer": "hats",
+        "question": "legendary pirate benjamin hornigold once seized a sloop off the coast of honduras, but instead of claiming the ship or its cargo, he only stole _______."
+    },
+    {
+        "answer": "not showing up",
+        "question": "when the very first session of the united states congress began in 1789, most members weirdly chose to mark the occasion by _______."
+    },
+    {
+        "answer": "Emperor of the United States",
+        "question": "san francisco newspapers published an unusual press release in 1859 from resident joshua norton declaring that he was _______."
+    },
+    {
+        "answer": "the basement",
+        "question": "in 1921, a statue commemorating women\u2019s suffrage was unveiled in the u.s. capitol rotunda. the next day, congress made the odd decision to move it to _______."
+    },
+    {
+        "answer": "cotton balls",
+        "question": "commenting on his personal finances, johnny depp said \u201cif i want to buy 15,000 _______ a day, it\u2019s my thing.\u201d"
+    },
+    {
+        "answer": "circumcision service",
+        "question": "in 2017, a clinic in the philippines used the x-men\u2019s wolverine as a mascot to advertise their _______."
+    },
+    {
+        "answer": "resurrect",
+        "question": "william thornton was a prominent u.s. physician and architect, but his strangest contribution to history was probably his detailed plan to _______ george washington."
+    },
+    {
+        "answer": "a wine bar",
+        "question": "according to legend, the devil himself helped build st. mary\u2019s church in l\u00e3\u00bcbeck, germany, because locals tricked him into thinking they were building _______."
+    },
+    {
+        "answer": "a dead bulldog",
+        "question": "the hall of zsu zsi is an art gallery in edmonton, canada that is dedicated solely to art inspired by _______."
+    },
+    {
+        "answer": "a squirrel",
+        "question": "in 1772, benjamin franklin wrote a letter to cheer up a grieving friend in which he said nice things about _______."
+    },
+    {
+        "answer": "The pope",
+        "question": "if you ask david bawden, he\u2019s not just some guy from belvue, kansas; he\u2019s also _______."
+    },
+    {
+        "answer": "frozen pizzas",
+        "question": "in march 1973, funeral services were held on a farm in ossineke, michigan, the final resting place for over 30,000 _______."
+    },
+    {
+        "answer": "DNA",
+        "question": "tagsmart is a company that came up with a new way to stop art forgery: by giving paintings _______."
+    },
+    {
+        "answer": "playing pinball",
+        "question": "the elmhurst art museum in illinois debuted an exhibit called \u201ckings and queens\u201d in 2017 that lets you enjoy art while _______."
+    },
+    {
+        "answer": "fossilized poop",
+        "question": "george frandsen of florida recently earned himself a guinness world record for the largest collection of _______."
+    },
+    {
+        "answer": "diamonds",
+        "question": "researchers from the city college of new york found a new method to store data for long periods of time: put the data in _______."
+    },
+    {
+        "answer": "Ice",
+        "question": "geoffrey pyke was a military inventor, most famous for his odd proposal to build aircraft carriers out of _______."
+    },
+    {
+        "answer": "read closed books",
+        "question": "it might seem impossible, but researchers at mit and georgia tech have developed a special \u201cterahertz camera\u201d that can actually _______."
+    },
+    {
+        "answer": "clitoris",
+        "question": "a small town in northern spain tried to run online ads for their 2015 food festival. unfortunately, due to a google translate error, it accidentally promoted a _______ festival."
+    },
+    {
+        "answer": "a coffin",
+        "question": "who needs a limo? not new jersey teen megan flaherty. she turned a lot of heads by arriving to her prom in _______."
+    },
+    {
+        "answer": "dead bugs",
+        "question": "in 1975, japanese sculptor yoneji inamura made a statue out of 20,000 dead bugs as a memorial honoring _______."
+    },
+    {
+        "answer": "vibrators",
+        "question": "in 2016, m\u00e3\u00b6tley cr\u00e3\u00bce gave their fans what they\u2019ve always wanted and released their own line of _______."
+    },
+    {
+        "answer": "sheep",
+        "question": "in 2014, an unusual shakespeare adaptation premiered in london titled king lear with _______."
+    },
+    {
+        "answer": "avocado",
+        "question": "in may, 2017, the british association of plastic, reconstructive and aesthetic surgeons reported that they have seen an increase in emergency room patients due to a condition some call \u201c_______ hand.\u201d"
+    },
+    {
+        "answer": "Harley",
+        "question": "pope francis raised $327,000 for charity in 2014 when he auctioned off his _______."
+    },
+    {
+        "answer": "breasts",
+        "question": "mcdonald\u2019s considered getting rid of the golden arches logo in the 1960s, until a designer said the arches reminded customers of _______."
+    },
+    {
+        "answer": "listening to Nickelback",
+        "question": "the police department of the canadian town of kensington publicly apologized for their 2016 announcement that the new punishment for driving drunk would be _______."
+    },
+    {
+        "answer": "Taco",
+        "question": "if you attended the university of kentucky in 2016, you could have taken \u201cwriting, rhetoric, and digital studies 422,\u201d a course also known as \u201c_______ literacy.\u201d"
+    },
+    {
+        "answer": "as a DJ",
+        "question": "in 1957, to help raise money for the march of dimes, eleanor roosevelt spent a day _______."
+    },
+    {
+        "answer": "frog legs",
+        "question": "in mary shelley\u2019s 1831 preface to frankenstein, the author explains the novel was inspired by _______."
+    },
+    {
+        "answer": "aliens invaded",
+        "question": "during an interview with charlie rose, mikhail gorbachev revealed that ronald reagan once told him the cold war could be put on hold if _______."
+    },
+    {
+        "answer": "in a hot air balloon",
+        "question": "texans lawmakers in 2017 made it legal to hunt feral hogs and coyotes while _______."
+    },
+    {
+        "answer": "fidget spinner",
+        "question": "pornhub gets some weird searches on their site, but things got especially weird in may 2017 when it got 2.5 million searches for \u201c_______.\u201d"
+    },
+    {
+        "answer": "a potato farm",
+        "question": "in 2015, jetblue became the first airline to have _______ in their jfk terminal."
+    },
+    {
+        "answer": "wear sunscreen",
+        "question": "a 2015 study published in environmental contamination and toxicology found that coral reefs could be damaged by tourists who _______."
+    },
+    {
+        "answer": "himself",
+        "question": "in 2013, international soccer star cristiano ronaldo opened up a museum in portugal dedicated to _______."
+    },
+    {
+        "answer": "bug collection",
+        "question": "while on the late late show with james corden in 2015, actress anna faris revealed that she fell in love with chris pratt when he showed her his _______."
+    },
+    {
+        "answer": "hunting trips",
+        "question": "in 1999, the make-a-wish foundation put a new restriction on wishes. the organization officially banned kids from requesting _______."
+    },
+    {
+        "answer": "eat an entire bag of Doritos",
+        "question": "in a 2005 gq article about saddam hussein, one of the soldiers who guarded his cell claimed hussein could _______ in 10 minutes."
+    },
+    {
+        "answer": "cut their hair in their sleep",
+        "question": "in 1942, the town of pascaboula, mississippi was terrorized by a man who broke into people\u2019s homes just to do one strange thing: _______."
+    },
+    {
+        "answer": "jarred farts",
+        "question": "in order to treat exposure to the bubonic plague, some doctors in the 1600s recommended that their patients smell _______."
+    },
+    {
+        "answer": "Wookiee",
+        "question": "in 2017, the dallas morning news apologized for a spelling error they made 40 years earlier. in 1977, the paper misspelled \u201c_______.\u201d"
+    },
+    {
+        "answer": "BlessU-2",
+        "question": "in honor of the 500-year anniversary of the protestant reformation, inventors in germany made a robot priest named _______."
+    },
+    {
+        "answer": "luxury cars",
+        "question": "in december of 2016, a vending machine was installed in singapore that strangely only sells _______."
+    },
+    {
+        "answer": "Steven Seagal",
+        "question": "in the interest of national security, ukraine instituted a may 2017 ban on _______ entering the country."
+    },
+    {
+        "answer": "cannabis",
+        "question": "green built is a company that produces and sells a fireproof, environmentally-friendly building material that\u2019s made out of _______."
+    },
+    {
+        "answer": "taking off his sunglasses",
+        "question": "in may 2017, a hiker in arizona\u2019s catalina mountains stopped an aggressive mountain lion from attacking by simply _______."
+    },
+    {
+        "answer": "astroturf",
+        "question": "it may look odd, but country music legend hank williams\u2019 grave is surrounded by _______."
+    },
+    {
+        "answer": "Beyonce",
+        "question": "weirdly enough, the curvy, rippling design of the premier tower, a 741-foot skyscraper being built in melbourne, was inspired by _______."
+    },
+    {
+        "answer": "cow burps",
+        "question": "dsm, a company from the netherlands, invented a new product that could help save the environment by stopping _______."
+    },
+    {
+        "answer": "Dr. Kevorkian",
+        "question": "a very still life, released in 1997, is the first and only jazz funk album released by _______."
+    },
+    {
+        "answer": "intestines",
+        "question": "bayard holmes and henry cotton had an unusual method for treating schizophrenia in their patients: getting rid of their _______."
+    },
+    {
+        "answer": "wasp nests",
+        "question": "responding to a myth about the supposed health benefits, dr. jen gunter issued a may 2017 warning urging women not to put _______ in their vaginas."
+    },
+    {
+        "answer": "Papa John\u2019s Pizza",
+        "question": "in 2017, carolina williams was accepted into yale after writing an unusual 200-word essay about her love of _______."
+    },
+    {
+        "answer": "ice cream sundae",
+        "question": "consider patronizing serendipity 3 in new york, where you can buy a $1,000 _______."
+    },
+    {
+        "answer": "a parrot",
+        "question": "ted richards of bristol, england is a perfectionist. he had his face and eyeballs tattooed, and his ears removed, in order to look like _______."
+    },
+    {
+        "answer": "political beliefs",
+        "question": "in 2017, cary funk of the pew research center released the results to an interesting study of almost 8,000 twins which hoped to see if they had identical _______."
+    },
+    {
+        "answer": "Lesbian",
+        "question": "on january 5, 1917, the german submarine u-35 sank a british cargo ship with an unusual name. it was called the ss _______."
+    },
+    {
+        "answer": "Jar Jar Binks",
+        "question": "the altoona curve, a minor league baseball team, held a really odd promotional night for fans in 2016. their players wore jerseys with pictures of _______ on them."
+    },
+    {
+        "answer": "Infinite Jest",
+        "question": "comedian jamie loftus took on an odd project. for over a year, she\u2019s been slowly eating _______."
+    },
+    {
+        "answer": "the devil\u2019s horns hand gesture",
+        "question": "claiming he\u2019d made it popular in the \u201870s, kiss bassist gene simmons briefly tried to trademark _______ in 2017."
+    },
+    {
+        "answer": "burying underwear",
+        "question": "the soil conservation council of canada ran a strange campaign in april 2017 stating that you can test the quality of your soil by simply _______."
+    },
+    {
+        "answer": "Hairy Ball",
+        "question": "there is an algebraic theorem that, when applied to meteorology, suggests that there must be a spot on earth with no wind. the odd name of this idea is the _______ theorem."
+    },
+    {
+        "answer": "watermelons",
+        "question": "if you want to win back an ex, maybe don\u2019t follow the lead of a student at henan university in china. he presented his former girlfriend with 99 _______."
+    },
+    {
+        "answer": "Britney Spears\u2019 Instagram",
+        "question": "in 2017, the russian hacker group turla got pretty inventive. they tried to avoid detection by hiding their malware instructions in _______."
+    },
+    {
+        "answer": "drank coffee",
+        "question": "kit lovelace conducted some important research. she watched all 236 episodes of friends and tracked how often they _______."
+    },
+    {
+        "answer": "roadkill",
+        "question": "in 2005, after receiving many complaints, kraft foods decided they would no longer make gummy candy shaped like _______."
+    },
+    {
+        "answer": "a copy of Hustler",
+        "question": "once a month since 1983, every member of the u.s. congress has received _______ absolutely free."
+    },
+    {
+        "answer": "drive",
+        "question": "in february 2014, vice president joe biden said there was \u201cone overwhelming reason not to run for president.\u201d he was referencing the fact that, for the rest of their lives, u.s. presidents aren\u2019t allowed to _______."
+    },
+    {
+        "answer": "mackerel",
+        "question": "in 2016, charlie shrem wrote a first-person account of the economy inside a federal prison. his most surprising revelation was that, instead of cigarettes, most inmates used _______ as currency."
+    },
+    {
+        "answer": "dead cats",
+        "question": "think you\u2019re a real fashionista? you\u2019ll never beat socialite kate fearing strong who attended an 1883 new york ball in a dress made out of _______."
+    },
+    {
+        "answer": "used a Ouija board",
+        "question": "in a 1994 uk murder case, the court of appeal was forced to call for a retrial after learning that jurors had _______ before delivering the verdict."
+    },
+    {
+        "answer": "marijuana",
+        "question": "on july 7, 2017, nevada had to issue a \u201cstatement of emergency\u201d because the state was running out of_______."
+    },
+    {
+        "answer": "Strawberry Pop-Tarts",
+        "question": "when walmart began studying consumer trends, they found that before a hurricane, people were buying seven times the normal amount of _______."
+    },
+    {
+        "answer": "getting arrested",
+        "question": "brandon thompson is a non-traditional romantic. he proposed to his girlfriend while _______."
+    },
+    {
+        "answer": "do 1000 hours of community service",
+        "question": "in 2017, people who connected to purple wi-fi in england unknowingly agreed to a legally binding clause that states they must _______."
+    },
+    {
+        "answer": "husband",
+        "question": "in a bid to lure in customers, the global harbour mall in shanghai has installed \u201c_______ pods.\u201d"
+    },
+    {
+        "answer": "fly over",
+        "question": "according to an october, 2014 article in business insider, virginia is the number-one state for people to _______."
+    },
+    {
+        "answer": "jumping off bridges",
+        "question": "ever heard of larry donovan? he tried to become famous in the 1880s by repeatedly _______."
+    },
+    {
+        "answer": "Mind Your Business",
+        "question": "the original u.s. penny, called the fugio cent, featured the sun shining on a short phrase which simply read \u201c_______.\u201d"
+    },
+    {
+        "answer": "15 bodies",
+        "question": "during a 1998 renovation of ben franklin\u2019s london home, historians were surprised to uncover _______ in the founding father\u2019s basement."
+    },
+    {
+        "answer": "Welcome to Scotland",
+        "question": "in 2007, scotland spent \u00e2\u00a3125,000 on a new tourism campaign. the result was the enticing slogan: \u201c_______.\u201d"
+    },
+    {
+        "answer": [
+            "Avoid",
+            "Ships"
+        ],
+        "question": "john w. trimmer is the author of the 1982 book how to _______ huge _______."
+    },
+    {
+        "answer": [
+            "puppet",
+            "wheelchair"
+        ],
+        "question": "during the 1995 miss america pageant, miss colorado\u2019s talent was singing \u201ccan you feel the love tonight\u201d to a _______ in a _______."
+    },
+    {
+        "answer": [
+            "Trust",
+            "Wife"
+        ],
+        "question": "from 1957 to 1962, johnny carson hosted a game show called do you _______ your _______?"
+    },
+    {
+        "answer": [
+            "winked",
+            "grocer"
+        ],
+        "question": "in 1907, kellogg\u2019s had a promotion offering women a free box of corn flakes if they _______ at their _______."
+    },
+    {
+        "answer": [
+            "cucumber",
+            "licorice"
+        ],
+        "question": "the smell and taste treatment and research foundation concluded that the most sexually arousing scent for women is a combination of _______ and _______."
+    },
+    {
+        "answer": [
+            "cocaine",
+            "herpes"
+        ],
+        "question": "belgian professors studied library copies of fifty shades of grey and discovered trace amounts of _______ and _______ on the books."
+    },
+    {
+        "answer": [
+            "Jerk",
+            "Drive"
+        ],
+        "question": "south dakota had to cancel a public safety campaign due to people reading it as a sexual euphemism. the message was \u201cdon\u2019t _______ and _______.\u201d"
+    },
+    {
+        "answer": [
+            "land mines",
+            "tuberculosis"
+        ],
+        "question": "apopo is an organization that trains african giant-pouched rats to detect _______ and _______."
+    },
+    {
+        "answer": [
+            "an egg",
+            "soup"
+        ],
+        "question": "albert einstein once claimed that his second greatest idea after the theory of relativity was to put _______ in _______."
+    },
+    {
+        "answer": [
+            "tomatoes",
+            "vegetables"
+        ],
+        "question": "the controversial supreme court case nix v. hedden upset more than a few people when the court ruled that _______ are _______."
+    },
+    {
+        "answer": [
+            "donkeys",
+            "pajamas"
+        ],
+        "question": "the people from \u00e3\u017ele de r\u00e3\u00a9, a remote island off the coast of france, have a weird custom: each morning they dress their _______ in _______."
+    },
+    {
+        "answer": [
+            "duvet",
+            "coconuts"
+        ],
+        "question": "in july 2015, police in manchester, england responded to a call about a dead animal in the canals. but don\u2019t worry. turns out it was just a _______ stuffed with _______."
+    },
+    {
+        "answer": [
+            "duck",
+            "red boots and a diaper"
+        ],
+        "question": "in october 2016, one of the passengers on a flight from charlotte to asheville was a _______ wearing _______."
+    },
+    {
+        "answer": [
+            "vodka",
+            "girl scout cookies"
+        ],
+        "question": "a man in ardmore, ok was arrested in february 2017 because police say he offered to trade _______ for _______."
+    },
+    {
+        "answer": [
+            "eel",
+            "pig"
+        ],
+        "question": "if you find yourself out on herrington lake in kentucky, beware of the rumored local monster that\u2019s half _______ half _______."
+    },
+    {
+        "answer": [
+            "an assault rifle",
+            "a toy plane"
+        ],
+        "question": "during the holiday rush of 2016, ups surprised a new york couple when they accidentally delivered _______ instead of _______."
+    },
+    {
+        "answer": [
+            "sleep",
+            "a teddy bear"
+        ],
+        "question": "the hotel chain travelodge surveyed 6,000 british adults and discovered that 35% of them regularly _______ with _______."
+    },
+    {
+        "answer": [
+            "scorpions",
+            "spiders"
+        ],
+        "question": "in 2013, the san diego post office had to remind people of public law 108, which says you can mail _______ but not _______."
+    },
+    {
+        "answer": [
+            "speak",
+            "Scooby Doo"
+        ],
+        "question": "in 2014, dr. steven long of marquette university coined the term \u201crhotic replacement.\u201d you may have this disorder if you _______ like _______."
+    },
+    {
+        "answer": [
+            "Night",
+            "Radishes"
+        ],
+        "question": "on december 23rd in oaxaca, mexico, locals line up for hours to view strange exhibits as part of an annual event known as _______ of the _______."
+    },
+    {
+        "answer": [
+            "dirt",
+            "fire ants"
+        ],
+        "question": "plan to attend the entroido festival in laza, spain before lent? the townspeople will likely shower you with _______ and _______."
+    },
+    {
+        "answer": [
+            "potty train",
+            "cat"
+        ],
+        "question": "jazz legend charles mingus penned a guide on how to _______ your _______."
+    },
+    {
+        "answer": [
+            "chili",
+            "fries"
+        ],
+        "question": "as part of a 2017 marketing stunt for pop-tarts, kellogg\u2019s opened an unusual restaurant in new york with bizarre menu items, including _______ pop-tart _______."
+    },
+    {
+        "answer": [
+            "water",
+            "pink"
+        ],
+        "question": "residents of onoway, alberta, canada were shocked when they woke up and found that all their _______ had become _______."
+    },
+    {
+        "answer": [
+            "semen",
+            "young men"
+        ],
+        "question": "as part of their journey to adulthood, boys of the sambia tribe of papua new guinea are expected to drink the _______ of _______."
+    },
+    {
+        "answer": [
+            "adult diapers",
+            "baby diapers"
+        ],
+        "question": "due to its aging population, _______ outsell _______ in japan."
+    },
+    {
+        "answer": [
+            "eaten",
+            "a cat"
+        ],
+        "question": "on christmas day in iceland, children leave an offering of clothes so they won\u2019t be _______ by _______."
+    },
+    {
+        "answer": [
+            "his wife",
+            "his girlfriend"
+        ],
+        "question": "in a post-game interview, ghanaian football star mohammed anas turned some heads by thanking both _______ and _______."
+    },
+    {
+        "answer": [
+            "ate",
+            "opium"
+        ],
+        "question": "in 2015, the people of chittorgarh, india faced a big problem. according to locals, parrots swooped in and _______ their _______."
+    },
+    {
+        "answer": [
+            "Nazi",
+            "bees"
+        ],
+        "question": "the best spider-man villains never make it to the movies. like the evil fritz von meyer who is a _______ made of _______."
+    },
+    {
+        "answer": [
+            "pee",
+            "a bus tire"
+        ],
+        "question": "astronauts leaving from baikonur cosmodrome in kazakhstan have an odd ritual. before boarding, they _______ on _______."
+    },
+    {
+        "answer": [
+            "fur",
+            "kitten"
+        ],
+        "question": "in march of 2017, demeter fragrance library released their newest perfume which smells like the _______ of a _______."
+    },
+    {
+        "answer": [
+            "a dwarf",
+            "a giant"
+        ],
+        "question": "adam rainer is the only man in recorded history to be both _______ and _______."
+    },
+    {
+        "answer": [
+            "drones",
+            "eagles"
+        ],
+        "question": "here\u2019s an exciting new crime-fighting technique. in 2017, dutch police started fighting _______ with _______."
+    },
+    {
+        "answer": [
+            "pig",
+            "chicken"
+        ],
+        "question": "invented in the middle ages, a \u201ccockentryce\u201d is a _______ sewn onto a _______."
+    },
+    {
+        "answer": [
+            "beavers",
+            "fish"
+        ],
+        "question": "in the 17th century, responding to a question from the bishop of quebec, the catholic church officially declared that _______ were _______."
+    },
+    {
+        "answer": [
+            "shave",
+            "eyebrows"
+        ],
+        "question": "when a pet cat died in ancient egypt, its owners had a weird way of mourning. they would _______ their _______."
+    },
+    {
+        "answer": [
+            "face",
+            "punched"
+        ],
+        "question": "do you have a \u201cbackpfeifengesicht?\u201d from german, it translates to \u201ca _______ that needs _______.\u201d"
+    },
+    {
+        "answer": [
+            "ghosts",
+            "real"
+        ],
+        "question": "depending on the outcome of an odd lawsuit filed in 2017, warner bros. may have to pay gerard brittle $900 million unless they can prove that _______ are _______."
+    },
+    {
+        "answer": [
+            "tequila",
+            "a lamb\u2019s brain"
+        ],
+        "question": "salvador dali wrote a really weird cookbook called les diners de gala. in it, he included a recipe for avocado toast that called for _______ and _______."
+    },
+    {
+        "answer": [
+            "goat",
+            "drank beer"
+        ],
+        "question": "back in the late 1980s, the small town of lajitas, tx elected clay henry to be their mayor. henry was unique in that he was a _______ that _______."
+    },
+    {
+        "answer": [
+            "break",
+            "bones"
+        ],
+        "question": "be gentle with the \u201chorror frog\u201d of central africa. when threatened it can actually _______ its own _______."
+    },
+    {
+        "answer": [
+            "Jesus",
+            "Buddha"
+        ],
+        "question": "a-1 pictures produced a 2013 movie based on a popular japanese manga that features _______ and _______ living together as roommates in tokyo."
+    },
+    {
+        "answer": [
+            "apples",
+            "oranges"
+        ],
+        "question": "nasa researcher scott a. sandford published a tongue-in-cheek 1995 study that compared _______ and _______."
+    },
+    {
+        "answer": [
+            "burgers",
+            "fries"
+        ],
+        "question": "a 2013 version of the mcdonalds\u2019 employee resources website drew headlines by recommending workers avoid _______ and _______."
+    },
+    {
+        "answer": [
+            "burping",
+            "gym class"
+        ],
+        "question": "back in 2011, an albuquerque seventh grader was arrested for _______ in _______."
+    },
+    {
+        "answer": [
+            "a lizard",
+            "bra"
+        ],
+        "question": "when taunton, massachusetts police arrested a woman for driving drunk in may of 2017, they discovered she had _______ in her _______."
+    },
+    {
+        "answer": [
+            "stolen ships",
+            "pirates"
+        ],
+        "question": "vessex is a particularly niche business. it collects _______ from _______."
+    },
+    {
+        "answer": [
+            "skeleton",
+            "glowing eyes"
+        ],
+        "question": "helene adelaide shelby designed a pretty innovative apparatus for getting criminals to confess their crimes. it was essentially a _______ with _______."
+    },
+    {
+        "answer": [
+            "David Bowie",
+            "Adam Lambert"
+        ],
+        "question": "jonathan and drew scott, aka the property brothers, have an older brother named jd who has performed in las vegas as an impersonator of _______ and _______."
+    },
+    {
+        "answer": [
+            "Dance",
+            "Ph.D."
+        ],
+        "question": "in 2017, science magazine sponsored the very niche 10th annual _______ your _______ contest."
+    },
+    {
+        "answer": [
+            "bones",
+            "a mermaid"
+        ],
+        "question": "if you make an appointment with the ryuguji temple in fukuoka, japan, you can see what local legend claims to be the _______ of _______."
+    },
+    {
+        "answer": [
+            "falcons",
+            "have sex with"
+        ],
+        "question": "les boyd is known among his peers for being the inventor of a one-of-a-kind hat. it\u2019s made specifically for _______ to _______."
+    },
+    {
+        "answer": [
+            "a whale",
+            "a rainforest"
+        ],
+        "question": "in april 2017, outside the small australian town of karunda, a contractor found the mysterious remains of _______ in _______."
+    },
+    {
+        "answer": [
+            "decapitate",
+            "rattlesnake"
+        ],
+        "question": "sweetwater, texas holds an annual beauty pageant with a unique twist. every contestant must _______ a _______."
+    },
+    {
+        "answer": [
+            "fart",
+            "pee"
+        ],
+        "question": "in 2017, a museum in manitoba introduced a new exhibit featuring two robotic dinosaurs that both _______ and _______."
+    },
+    {
+        "answer": [
+            "butts",
+            "fall off"
+        ],
+        "question": "a fungus known as massospora cicadina has a bizarre effect on cicadas. it causes their _______ to _______."
+    },
+    {
+        "answer": [
+            "her face",
+            "bread"
+        ],
+        "question": "there\u2019s an instagram account with over 170,000 followers that consists of only a woman smashing _______ into _______."
+    },
+    {
+        "answer": [
+            "$60",
+            "nachos"
+        ],
+        "question": "in november 2016, an ohio woman who placed an ad on backpage.com was busted for offering sex in exchange for _______ and _______."
+    },
+    {
+        "answer": [
+            "Dollar",
+            "Grandpa"
+        ],
+        "question": "in december of 2016, the fbi began hunting a criminal they referred to as the \u201c_______ store _______ bandit.\u201d"
+    },
+    {
+        "answer": [
+            "amputate",
+            "toes"
+        ],
+        "question": "don\u2019t get the tropical disease known as \u201cainhum.\u201d that\u2019s where your body decides to spontaneously _______ your _______."
+    },
+    {
+        "answer": [
+            "a whale bone",
+            "a catheter"
+        ],
+        "question": "u.s. founding father gouverneur morris had an unusual death. he passed away shortly after he tried to use _______ as _______."
+    },
+    {
+        "answer": [
+            "an orgy",
+            "pretending he was Batman"
+        ],
+        "question": "in a 2014 interview with blastr, actor adam west revealed that he once got kicked out of _______ for _______."
+    },
+    {
+        "answer": [
+            "paint eyes",
+            "cows\u2019 butts"
+        ],
+        "question": "dr. neil jordan came up with an inventive way to protect cattle in botswana from lion attacks. he had farmers _______ on their _______."
+    },
+    {
+        "answer": [
+            "duck",
+            "pink head"
+        ],
+        "question": "since 2009, explorer richard thorns has made six trips to myanmar looking for a _______ with a _______."
+    },
+    {
+        "answer": [
+            "fake flies",
+            "urinals"
+        ],
+        "question": "amsterdam\u2019s schiphol airport estimates that their bathroom floors saw up to 80 percent less \u201cspillage\u201d when they started putting _______ in _______."
+    },
+    {
+        "answer": [
+            "a hot dog stand",
+            "Central Park Zoo"
+        ],
+        "question": "according to a september 2013 new york times article, you\u2019ll have to pay nearly $300,000 a year if you want to own _______ near _______."
+    },
+    {
+        "answer": [
+            "a nanny",
+            "a haunted house"
+        ],
+        "question": "even though the last five people quit, a 2017 job posting in the scottish borders offered a \u00e2\u00a350,000 salary to anyone willing to be _______ in _______."
+    },
+    {
+        "answer": [
+            "burying underwear"
+        ],
+        "question": "the soil conservation council of canada ran a strange campaign in april 2017 stating that you can test the quality of your soil by simply _______."
+    },
+    {
+        "answer": [
+            "magic ball",
+            "your anus"
+        ],
+        "question": "in japanese mythology, there are monsters called kappa who are always trying to steal the \u201cshirikodama,\u201d which is a _______ in _______."
+    },
+    {
+        "answer": [
+            "pillow",
+            "fridge"
+        ],
+        "question": "this year, don\u2019t forget to join millions of americans and brits in celebrating prosperity on may 29, also known as put a _______ on your _______ day."
+    },
+    {
+        "answer": [
+            "Michael Jackson",
+            "Spider-Man"
+        ],
+        "question": "during comic-con in 2009, stan lee dropped a weird bombshell: at one time, noted celebrity _______ wanted to play _______ in a movie."
+    },
+    {
+        "answer": [
+            "Richard Nixon",
+            "Robocop"
+        ],
+        "question": "photographer chuck pulin captured an incredible photo in 1987 during an event at the boys club of america. he documented _______ meeting _______."
+    },
+    {
+        "answer": [
+            "yoga",
+            "goats"
+        ],
+        "question": "want to spice up your workout routine? sign up for a class with lainey morse. she teaches _______ with _______."
+    },
+    {
+        "answer": [
+            "car horns",
+            "duck quacks"
+        ],
+        "question": "noise pollution can be a serious problem, which is why researchers at a university in south korea suggest replacing the sound of _______ with _______."
+    },
+    {
+        "answer": [
+            "coins",
+            "the plane\u2019s engine"
+        ],
+        "question": "a superstitious passenger on a flight from shanghai ended up delaying takeoff after she threw _______ into _______."
+    },
+    {
+        "answer": [
+            "15 minutes",
+            "a Walmart"
+        ],
+        "question": "according to an october 2016 article on cnbc.com, approximately 90 percent of people in the u.s. are _______ from _______."
+    },
+    {
+        "answer": [
+            "scent",
+            "fresh bread"
+        ],
+        "question": "in an odd study, researchers at france\u2019s university of southern brittany discovered that people are more likely to help a stranger if they first get a _______ of _______."
+    },
+    {
+        "answer": [
+            "red toilet paper",
+            "blue toilet paper"
+        ],
+        "question": "there is a creepy urban legend in korea about the malicious ghost \u201caka manto.\u201d before killing you, it will simply ask you if you want _______ or _______."
+    },
+    {
+        "answer": [
+            "run",
+            "marathon"
+        ],
+        "question": "on april 16, 2007, astronaut sunita williams became the first person to _______ a _______ in space."
+    },
+    {
+        "answer": [
+            "released",
+            "bedbugs"
+        ],
+        "question": "on june 2, 2017, a man in augusta, maine wanted to protest his town government. so, he _______ one hundred _______ inside city hall."
+    },
+    {
+        "answer": [
+            "armpits",
+            "stink"
+        ],
+        "question": "if you\u2019re one of the two percent of people that carry the gene abcc11, then your _______ don\u2019t _______."
+    },
+    {
+        "answer": [
+            "astronauts",
+            "vote from space"
+        ],
+        "question": "in 1997, texas governor george w. bush signed a popular bill, rule 81.35. it allowed _______ to _______."
+    },
+    {
+        "answer": [
+            "cottage cheese",
+            "ketchup"
+        ],
+        "question": "richard nixon had a truly bizarre food fetish. he enjoyed eating _______ with _______."
+    },
+    {
+        "answer": [
+            "tennis courts",
+            "Wimbledon"
+        ],
+        "question": "thinking about a trip to charles city, ia? make sure to see mark kuhn\u2019s farm where he\u2019s faithfully recreated the _______ from _______."
+    },
+    {
+        "answer": [
+            "location",
+            "vocation"
+        ],
+        "question": "the motto for hooker, oklahoma: \u201cit\u2019s a _______, not a _______.\u201d"
+    },
+    {
+        "answer": [
+            "strip club",
+            "church"
+        ],
+        "question": "when in guelph, ontario, you might find what you need at an establishment called the manor, which, as of april 2014, is both a _______ and a _______."
+    },
+    {
+        "answer": [
+            "milk",
+            "scorpion"
+        ],
+        "question": "developed by scientists in morocco, the ves-4 robot is designed to _______ a _______."
+    },
+    {
+        "answer": [
+            "speeding",
+            "a carriage"
+        ],
+        "question": "president ulysses s. grant was arrested while in office. his crime? he was caught _______ in _______."
+    },
+    {
+        "answer": [
+            "tower",
+            "lettuce"
+        ],
+        "question": "in an attempt to teach kids an important lesson, bernie karl of alaska wants to put a _______ of _______ in every public school."
+    },
+    {
+        "answer": [
+            "shower",
+            "Planet Fitness"
+        ],
+        "question": "in july, 2017, a man in shelby township, mi set himself on fire in a meth lab explosion. naturally, his reaction was to _______ at _______."
+    },
+    {
+        "answer": [
+            "translate",
+            "magic spells"
+        ],
+        "question": "in july of 2017, the newberry library in chicago put out an unusual call for help. they needed people to _______ some _______."
+    },
+    {
+        "answer": [
+            "noodles",
+            "blood"
+        ],
+        "question": "if you love ice cream, do not order the \u201csundae\u201d in south korea. it\u2019s cow or pig intestines filled with _______ and _______."
+    },
+    {
+        "answer": [
+            "sausages",
+            "ketchup"
+        ],
+        "question": "volkswagen isn\u2019t just a car company. oddly enough, they also sell _______ and _______."
+    },
+    {
+        "answer": [
+            "bras",
+            "panties"
+        ],
+        "question": "in the early 1980s, experimental musician frank zappa commissioned an unusual quilt. it was made entirely of _______ and _______."
+    },
+    {
+        "answer": [
+            "pi",
+            "3.2"
+        ],
+        "question": "in 1897, the indiana house of representatives passed a bill that redefined _______ as _______."
+    },
+    {
+        "answer": [
+            "friends",
+            "are 25"
+        ],
+        "question": "researchers at aalto and oxford universities studied the phone records of over 3.2 million europeans and found that people have the most _______ when they _______."
+    },
+    {
+        "answer": [
+            "oats",
+            "stolen penises"
+        ],
+        "question": "in 1486, german clergyman heinrich kramer published a book claiming that witches were, among other things, feeding _______ to _______."
+    },
+    {
+        "answer": [
+            "21 seconds",
+            "pee"
+        ],
+        "question": "an odd 2015 study by patricia yang, a phd student at georgia tech, concluded that most mammals need _______ to _______."
+    },
+    {
+        "answer": [
+            "break",
+            "windows"
+        ],
+        "question": "in 2016, a strange hoax hit several burger king restaurants. following instructions from a prank caller, store employees began to _______ all the _______."
+    }
+]

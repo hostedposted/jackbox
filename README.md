@@ -7,6 +7,7 @@ The games are:
 - Guesspionage
 - Fibbage
 - Fibbage 2
+- Fibbage 3
 
 # Installation
 
