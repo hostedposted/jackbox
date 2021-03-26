@@ -1,6 +1,5 @@
 //@ts-nocheck
 import "./style.scss";
-import "./wordpress-admin.scss";
 import Swal from "sweetalert2";
 import { pollkey, pollbonus, fibkey, fib3key } from "./utils";
 
