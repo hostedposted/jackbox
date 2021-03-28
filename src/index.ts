@@ -192,4 +192,10 @@ setInterval(async () => {
         }
         )
     }
+    if (document.querySelector("#content-region > div").classList.item(1) !== "fibbage3") {
+        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button) {
+            button.style.visibility = "hidden";
+        }
+        )
+    }
 }, 100)
