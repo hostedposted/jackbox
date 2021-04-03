@@ -1,8 +1,9 @@
 name: Build Bundle.js
 
-on:
-  push:
-    branches: [ master ]
+on: 
+  release:
+    types:
+      - created
 
 jobs:
   build:
