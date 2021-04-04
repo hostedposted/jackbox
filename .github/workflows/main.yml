@@ -1,9 +1,9 @@
 name: Build Bundle.js
 
 on: 
-  release:
-    types:
-      - created
+  push:
+    paths:
+     - 'dist/*'
 
 jobs:
   build:
