@@ -3,7 +3,7 @@ name: Build Bundle.js
 on: 
   push:
     paths:
-     - 'dist/*'
+     - 'src/*'
 
 jobs:
   build:
