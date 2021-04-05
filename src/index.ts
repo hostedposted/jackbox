@@ -30,12 +30,12 @@ toggler.onclick = function () {
 	}
 };
 
-let title = document.createElement('h1');
+let title = document.createElement("h1");
 title.id = "title";
 title.innerText = "HostedPosted's Jackbox cheats.";
 div.append(title); 
-let getanswer = document.createElement('button');
-getanswer.innerText = 'Get Answer';
+let getanswer = document.createElement("button");
+getanswer.innerText = "Get Answer";
 getanswer.classList.add("poll-button");
 getanswer.onclick = function() {
     var b = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML;
@@ -45,7 +45,7 @@ getanswer.onclick = function() {
             ans = value.answer;
         }
     });
-    if (typeof ans == 'undefined') {
+    if (typeof ans == "undefined") {
         b = document.getElementsByClassName("pollposition-text survey-text").item(2).innerHTML;
         percentage = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML.split("said ")[1].split("% ")[0];
         pollkey.forEach(function(value) {
@@ -86,14 +86,14 @@ getanswer.onclick = function() {
 };
 div.append(getanswer);
 getanswer.onmouseover = function () {
-	getanswer.style.background = '#CDCDCD';
+	getanswer.style.background = "#CDCDCD";
 };
 getanswer.onmouseout = function () {
-	getanswer.style.background = '#292525';
+	getanswer.style.background = "#292525";
 };
 
-let getbonus = document.createElement('button');
-getbonus.innerText = 'Get Bonus Answers';
+let getbonus = document.createElement("button");
+getbonus.innerText = "Get Bonus Answers";
 getbonus.classList.add("poll-button");
 getbonus.onclick = function() {
     var b = document.getElementsByClassName("pollposition-text question-text").item(4).innerHTML;
@@ -109,14 +109,14 @@ getbonus.onclick = function() {
 };
 div.append(getbonus);
 getbonus.onmouseover = function () {
-	getbonus.style.background = '#CDCDCD';
+	getbonus.style.background = "#CDCDCD";
 };
 getbonus.onmouseout = function () {
-	getbonus.style.background = '#292525';
+	getbonus.style.background = "#292525";
 };
 
-let getfib = document.createElement('button');
-getfib.innerHTML = 'Get Answer';
+let getfib = document.createElement("button");
+getfib.innerHTML = "Get Answer";
 getfib.classList.add("fib-button");
 getfib.onclick = function() {
     var question = document.getElementById("question-text")?.innerText.toLowerCase();
@@ -131,14 +131,14 @@ getfib.onclick = function() {
 };
 div.append(getfib);
 getfib.onmouseover = function () {
-	getfib.style.background = '#CDCDCD';
+	getfib.style.background = "#CDCDCD";
 };
 getfib.onmouseout = function () {
-	getfib.style.background = '#292525';
+	getfib.style.background = "#292525";
 };
 
-let getfib3 = document.createElement('button');
-getfib3.innerHTML = 'Get Answer';
+let getfib3 = document.createElement("button");
+getfib3.innerHTML = "Get Answer";
 getfib3.classList.add("fib3-button");
 getfib3.onclick = function() {
     var question = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
@@ -155,10 +155,10 @@ getfib3.onclick = function() {
 };
 div.append(getfib3);
 getfib3.onmouseover = function () {
-	getfib3.style.background = '#CDCDCD';
+	getfib3.style.background = "#CDCDCD";
 };
 getfib3.onmouseout = function () {
-	getfib.style.background = '#292525';
+	getfib.style.background = "#292525";
 };
 
 setInterval(async () => {
