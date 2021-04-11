@@ -16,7 +16,7 @@ toggler.innerText = "▼";
 
 document.body.prepend(toggler);
 
-var invisible = true;
+let invisible = true;
 
 toggler.onclick = function () {
 	if (invisible) {
@@ -30,16 +30,16 @@ toggler.onclick = function () {
 	}
 };
 
-let title = document.createElement("h1");
+const title = document.createElement("h1");
 title.id = "title";
 title.innerText = "HostedPosted's Jackbox cheats.";
 div.append(title); 
-let getanswer = document.createElement("button");
+const getanswer = document.createElement("button");
 getanswer.innerText = "Get Answer";
 getanswer.classList.add("poll-button");
 getanswer.onclick = function() {
-    var b = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML;
-    var ans, percentage;
+    let b = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML;
+    let ans, percentage;
     pollkey.forEach(function(value) {
         if (value.question === b) {
             ans = value.answer;
@@ -92,12 +92,12 @@ getanswer.onmouseout = function () {
 	getanswer.style.background = "#292525";
 };
 
-let getbonus = document.createElement("button");
+const getbonus = document.createElement("button");
 getbonus.innerText = "Get Bonus Answers";
 getbonus.classList.add("poll-button");
 getbonus.onclick = function() {
-    var b = document.getElementsByClassName("pollposition-text question-text").item(4).innerHTML;
-    var first, second, third;
+    const b = document.getElementsByClassName("pollposition-text question-text").item(4).innerHTML;
+    let first, second, third;
     pollbonus.forEach(function(value) {
         if (value.name === b) {
             first = value["1"];
@@ -115,12 +115,12 @@ getbonus.onmouseout = function () {
 	getbonus.style.background = "#292525";
 };
 
-let getfib = document.createElement("button");
+const getfib = document.createElement("button");
 getfib.innerHTML = "Get Answer";
 getfib.classList.add("fib-button");
 getfib.onclick = function() {
-    var question = document.getElementById("question-text")?.innerText.toLowerCase();
-    var ans;
+    const question = document.getElementById("question-text")?.innerText.toLowerCase();
+    let ans;
     fibkey.forEach(function(value) {
         if (value.question === question) {
             ans = value.answer;
@@ -137,12 +137,12 @@ getfib.onmouseout = function () {
 	getfib.style.background = "#292525";
 };
 
-let getfib3 = document.createElement("button");
+const getfib3 = document.createElement("button");
 getfib3.innerHTML = "Get Answer";
 getfib3.classList.add("fib3-button");
 getfib3.onclick = function() {
-    var question = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
-    var ans;
+    const question = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
+    let ans;
     fib3key.forEach(function(value) {
         if (value.question === question) {
             ans = value.answer;
