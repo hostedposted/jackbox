@@ -1,6 +1,6 @@
 # Jackbox Answers
 
-Here you can find cheats for 3 Jackbox.tv Games.
+Here you can find cheats for 4 Jackbox.tv Games.
 
 The games are:
 
