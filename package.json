@@ -10,7 +10,7 @@
   "author": "HostedPosted",
   "license": "MIT",
   "dependencies": {
-    "@sweetalert2/theme-wordpress-admin": "^4.0.3",
+    "@sweetalert2/theme-wordpress-admin": "^4.0.5",
     "css-loader": "^5.2.2",
     "sass": "^1.32.10",
     "sass-loader": "^11.0.1",
