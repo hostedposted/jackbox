@@ -1,7 +1,7 @@
 version: 2
 updates:
-- package-ecosystem: npm
+- package-ecosystem: javascript
   directory: "/"
   schedule:
-    interval: daily
+    interval: live
   open-pull-requests-limit: 10
