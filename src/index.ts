@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import "./style.scss";
 import Swal from "sweetalert2";
 import { pollkey, pollbonus, fibkey, fib3key } from "./utils";
@@ -54,29 +55,38 @@ getanswer.onclick = function() {
         });
     }
     if (typeof percentage !== "undefined") {
+        //@ts-ignore
         if (percentage-ans > 0) {
             if (document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").length === 4) {
+                //@ts-ignore
                 if (percentage-ans>=15) {
+                    //@ts-ignore
                     document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(3)?.click()
                 }
                 else {
+                    //@ts-ignore
                     document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(2)?.click();
                 }
             }
             else {
+                //@ts-ignore
                 document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1)?.click();
             }
         }
         else {
             if (document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").length === 4) {
+                //@ts-ignore
                 if (percentage-ans<=-15) {
+                    //@ts-ignore
                     document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0)?.click();
                 }
                 else {
+                    //@ts-ignore
                     document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1)?.click();
                 }
             }
             else {
+                //@ts-ignore
                 document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0)?.click();
             }
         }
@@ -95,7 +105,7 @@ const getbonus = document.createElement("button");
 getbonus.innerText = "Get Bonus Answers";
 getbonus.classList.add("poll-button");
 getbonus.onclick = function() {
-    const b = document.getElementsByClassName("pollposition-text question-text").item(4).innerHTML;
+    const b = document.getElementsByClassName("pollposition-text question-text").item(4)?.innerHTML;
     let first, second, third;
     pollbonus.forEach(function(value) {
         if (value.name === b) {
@@ -139,6 +149,7 @@ const getfib3 = document.createElement("button");
 getfib3.innerHTML = "Get Answer";
 getfib3.classList.add("fib3-button");
 getfib3.onclick = function() {
+    //@ts-ignore
     const question: string = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
     let ans: string | string[] = [""];
     fib3key.forEach(function(value) {
