@@ -1,4 +1,3 @@
-//@ts-nocheck
 import "./style.scss";
 import Swal from "sweetalert2";
 import { pollkey, pollbonus, fibkey, fib3key } from "./utils";
@@ -33,12 +32,12 @@ toggler.onclick = function () {
 const title = document.createElement("h1");
 title.id = "title";
 title.innerText = "HostedPosted's Jackbox cheats.";
-div.append(title); 
+div.append(title);
 const getanswer = document.createElement("button");
 getanswer.innerText = "Get Answer";
 getanswer.classList.add("poll-button");
 getanswer.onclick = function() {
-    let b = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML;
+    let b = document.getElementsByClassName("pollposition-text question-text").item(0)?.innerHTML;
     let ans, percentage;
     pollkey.forEach(function(value) {
         if (value.question === b) {
@@ -46,8 +45,8 @@ getanswer.onclick = function() {
         }
     });
     if (typeof ans == "undefined") {
-        b = document.getElementsByClassName("pollposition-text survey-text").item(2).innerHTML;
-        percentage = document.getElementsByClassName("pollposition-text question-text").item(0).innerHTML.split("said ")[1].split("% ")[0];
+        b = document.getElementsByClassName("pollposition-text survey-text").item(2)?.innerHTML;
+        percentage = document.getElementsByClassName("pollposition-text question-text").item(0)?.innerHTML.split("said ")[1].split("% ")[0];
         pollkey.forEach(function(value) {
             if (value.question === b) {
                 ans = value.answer;
@@ -58,27 +57,27 @@ getanswer.onclick = function() {
         if (percentage-ans > 0) {
             if (document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").length === 4) {
                 if (percentage-ans>=15) {
-                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(3).click();
+                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(3)?.click()
                 }
                 else {
-                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(2).click();
+                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(2)?.click();
                 }
             }
             else {
-            document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1).click();
+                document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1)?.click();
             }
         }
         else {
             if (document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").length === 4) {
                 if (percentage-ans<=-15) {
-                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0).click();
+                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0)?.click();
                 }
                 else {
-                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1).click();
+                    document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(1)?.click();
                 }
             }
             else {
-            document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0).click();
+                document.getElementsByClassName("pollposition-button pollposition-high-low-button pollposition-choice-button").item(0)?.click();
             }
         }
     }
@@ -126,7 +125,6 @@ getfib.onclick = function() {
             ans = value.answer;
         }
     });
-    //document.querySelector("#prompt > div > div").innerText
     Swal.fire("Answer", `The answer is: ${ans}`);
 };
 div.append(getfib);
@@ -141,13 +139,14 @@ const getfib3 = document.createElement("button");
 getfib3.innerHTML = "Get Answer";
 getfib3.classList.add("fib3-button");
 getfib3.onclick = function() {
-    const question = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
-    let ans;
+    const question: string = document.querySelector("#prompt > div > div")?.innerText.toLowerCase();
+    let ans: string | string[] = [""];
     fib3key.forEach(function(value) {
         if (value.question === question) {
             ans = value.answer;
         }
     });
+    if (ans[0] === "") ans = ["Could Not Be Found."]
     if (typeof ans === "object") {
         ans = ans.join(" and ");
     }
@@ -162,38 +161,38 @@ getfib3.onmouseout = function () {
 };
 
 setInterval(async () => {
-    if (document.querySelector("#content-region > div").getElementsByTagName("div")[0].id.replace("page-", "") !== "pollposition") {
-        [].forEach.call(document.getElementsByClassName("poll-button"), function(button) {
+    if (document.querySelector("#content-region > div > div")?.id.replace("page-", "") !== "pollposition") {
+        [].forEach.call(document.getElementsByClassName("poll-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "hidden";
         }
         );
     }
-    if (document.querySelector("#content-region > div").getElementsByTagName("div")[0].id.replace("page-", "") === "pollposition") {
-        [].forEach.call(document.getElementsByClassName("poll-button"), function(button) {
+    if (document.querySelector("#content-region > div > div")?.id.replace("page-", "") === "pollposition") {
+        [].forEach.call(document.getElementsByClassName("poll-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "visible";
         }
         );
     }
-    if (document.querySelector("#content-region > div").getElementsByTagName("div")[0].id.replace("page-", "") !== "fibbage") {
-        [].forEach.call(document.getElementsByClassName("fib-button"), function(button) {
+    if (document.querySelector("#content-region > div > div")?.id.replace("page-", "") !== "fibbage") {
+        [].forEach.call(document.getElementsByClassName("fib-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "hidden";
         }
         );
     }
-    if (document.querySelector("#content-region > div").getElementsByTagName("div")[0].id.replace("page-", "") === "fibbage") {
-        [].forEach.call(document.getElementsByClassName("fib-button"), function(button) {
+    if (document.querySelector("#content-region > div > div")?.id.replace("page-", "") === "fibbage") {
+        [].forEach.call(document.getElementsByClassName("fib-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "visible";
         }
         );
     }
-    if (document.querySelector("#content-region > div").classList.item(1) === "fibbage3") {
-        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button) {
+    if (document.querySelector("#content-region > div")?.classList.item(1) === "fibbage3") {
+        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "visible";
         }
         );
     }
-    if (document.querySelector("#content-region > div").classList.item(1) !== "fibbage3") {
-        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button) {
+    if (document.querySelector("#content-region > div")?.classList.item(1) !== "fibbage3") {
+        [].forEach.call(document.getElementsByClassName("fib3-button"), function(button: HTMLButtonElement) {
             button.style.visibility = "hidden";
         }
         );
