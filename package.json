@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@sweetalert2/theme-wordpress-admin": "^5.0.0",
-    "css-loader": "^5.2.4",
+    "css-loader": "^5.2.5",
     "sass": "^1.33.0",
     "sass-loader": "^11.1.1",
     "style-loader": "^2.0.0",
