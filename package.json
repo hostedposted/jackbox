@@ -12,7 +12,7 @@
   "dependencies": {
     "@sweetalert2/theme-wordpress-admin": "^5.0.16",
     "css-loader": "^7.1.1",
-    "sass": "^1.77.0",
+    "sass": "^1.77.1",
     "sass-loader": "^14.2.1",
     "style-loader": "^4.0.0",
     "sweetalert2": "^11.10.8",
