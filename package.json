@@ -13,7 +13,7 @@
     "@sweetalert2/theme-wordpress-admin": "^5.0.17",
     "css-loader": "^7.1.2",
     "sass": "^1.77.8",
-    "sass-loader": "^14.2.1",
+    "sass-loader": "^15.0.0",
     "style-loader": "^4.0.0",
     "sweetalert2": "^11.12.3",
     "ts-loader": "^9.5.1",
