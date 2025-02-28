@@ -17,7 +17,7 @@
     "style-loader": "^4.0.0",
     "sweetalert2": "^11.17.2",
     "ts-loader": "^9.5.2",
-    "typescript": "^5.7.3",
+    "typescript": "^5.8.2",
     "webpack": "^5.98.0",
     "webpack-cli": "^6.0.1"
   }
