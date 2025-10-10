@@ -15,7 +15,7 @@
     "sass": "^1.93.2",
     "sass-loader": "^16.0.5",
     "style-loader": "^4.0.0",
-    "sweetalert2": "^11.25.0",
+    "sweetalert2": "^11.26.0",
     "ts-loader": "^9.5.4",
     "typescript": "^5.9.3",
     "webpack": "^5.102.1",
